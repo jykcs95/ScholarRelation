@@ -1,460 +1,127 @@
 {
     "search_metadata": {
-        "id": "69e94a3bf5c2f83e7be1e17d",
+        "id": "69e95dc4cc56d3a253fe5237",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/YRKzZCtMICmeYzuBzuA7cQ/69e94a3bf5c2f83e7be1e17d.json",
-        "created_at": "2026-04-22 22:22:51 UTC",
-        "processed_at": "2026-04-22 22:22:51 UTC",
-        "google_scholar_url": "https://scholar.google.com/scholar?q=Steven+A+Cholewiak&hl=en&start=0&num=21",
-        "raw_html_file": "https://serpapi.com/searches/YRKzZCtMICmeYzuBzuA7cQ/69e94a3bf5c2f83e7be1e17d.html",
-        "total_time_taken": 7.32
+        "json_endpoint": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.json",
+        "created_at": "2026-04-22 23:46:12 UTC",
+        "processed_at": "2026-04-22 23:46:12 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=Tim+Kim&hl=en&start=0&num=21",
+        "raw_html_file": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.html",
+        "total_time_taken": 6.17
     },
     "search_parameters": {
         "engine": "google_scholar",
-        "q": "Steven A Cholewiak",
+        "q": "Tim Kim",
         "hl": "en",
         "start": 0,
         "num": "20"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "total_results": 634,
-        "time_taken_displayed": 0.06,
-        "query_displayed": "Steven A Cholewiak"
+        "total_results": 2730000,
+        "time_taken_displayed": 0.14,
+        "query_displayed": "Tim Kim"
     },
     "profiles": {
-        "title": "User profiles for Steven A Cholewiak",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Steven+A+Cholewiak&hl=en&num=20&oi=ao",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Steven+A+Cholewiak",
+        "title": "User profiles for Tim Kim",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Tim+Kim&hl=en&num=20&oi=ao",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Tim+Kim",
         "authors": [
             {
-                "name": "Steven A. Cholewiak, PhD",
-                "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=ao",
-                "serpapi_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en",
-                "author_id": "4bahYMkAAAAJ",
-                "affiliations": "Applied Vision Scientist at Google LLC",
-                "email": "Verified email at google.com",
-                "cited_by": 735
+                "name": "Timothy Doyeon Kim",
+                "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=ao",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en",
+                "author_id": "FTWUPusAAAAJ",
+                "affiliations": "Allen Institute & University of Washington",
+                "email": "Verified email at alleninstitute.org",
+                "cited_by": 201
             }
         ]
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "Chromablur: Rendering chromatic eye aberration improves accommodation and realism",
-            "result_id": "ZdKtUfdDpE8J",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3130800.3130815",
-            "snippet": "Computer-graphics engineers and vision scientists want to generate images that reproduce realistic depth-dependent blur. Current rendering algorithms take into account scene …",
+            "title": "An abundant dysfunctional apolipoprotein A1 in human atheroma",
+            "result_id": "HFINSxMj5XsJ",
+            "link": "https://www.nature.com/articles/nm.3459",
+            "snippet": "Recent studies have indicated that high-density lipoproteins (HDLs) and their major structural protein, apolipoprotein A1 (apoA1), recovered from human atheroma are dysfunctional …",
             "publication_info": {
-                "summary": "SA Cholewiak, GD Love, PP Srinivasan, R Ng… - ACM Transactions on …, 2017 - dl.acm.org",
+                "summary": "…, BS Levison, D Schmitt, L Li, Y Wu, J Buffa, T Kim… - Nature medicine, 2014 - nature.com",
                 "authors": [
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": ""
                     },
                     {
-                        "name": "GD Love",
-                        "link": "https://scholar.google.com/citations?user=3xJXtlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "3xJXtlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3xJXtlwAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "BS Levison"
                     },
                     {
-                        "name": "PP Srinivasan",
-                        "link": "https://scholar.google.com/citations?user=aYyDsZ0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "aYyDsZ0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aYyDsZ0AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "D Schmitt"
                     },
                     {
-                        "name": "R Ng",
-                        "link": "https://scholar.google.com/citations?user=6H0mhLUAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "6H0mhLUAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6H0mhLUAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "L Li"
+                    },
+                    {
+                        "name": "Y Wu",
+                        "link": "https://scholar.google.com/citations?user=hOO6uyMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "hOO6uyMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hOO6uyMAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "J Buffa"
+                    },
+                    {
+                        "name": "T Kim"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "acm.org",
+                    "title": "nih.gov",
                     "file_format": "PDF",
-                    "link": "https://dl.acm.org/doi/pdf/10.1145/3130800.3130815"
+                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3923163/pdf/nihms551736.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZdKtUfdDpE8J",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HFINSxMj5XsJ",
                 "cited_by": {
-                    "total": 91,
-                    "link": "https://scholar.google.com/scholar?cites=5738786554683183717&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "5738786554683183717",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=5738786554683183717&engine=google_scholar&hl=en&num=20"
+                    "total": 449,
+                    "link": "https://scholar.google.com/scholar?cites=8927580402102391324&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "8927580402102391324",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8927580402102391324&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:ZdKtUfdDpE8J:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AZdKtUfdDpE8J%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:HFINSxMj5XsJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHFINSxMj5XsJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=5738786554683183717&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "5738786554683183717",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=5738786554683183717&engine=google_scholar&hl=en&num=20"
+                    "total": 23,
+                    "link": "https://scholar.google.com/scholar?cluster=8927580402102391324&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "8927580402102391324",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8927580402102391324&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 2,
-            "title": "A frequency-domain analysis of haptic gratings",
-            "result_id": "MwL6-YApQfsJ",
-            "link": "https://ieeexplore.ieee.org/abstract/document/5210096/",
-            "snippet": "The detectability and discriminability of virtual haptic gratings were analyzed in the frequency domain. Detection (Exp. 1) and discrimination (Exp. 2) thresholds for virtual haptic gratings …",
+            "title": "Important surgical considerations in the management of renal cell carcinoma (RCC) with inferior vena cava (IVC) tumour thrombus",
+            "result_id": "1zv39lDS0bMJ",
+            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11174.x",
+            "snippet": "What's known on the subject? and What does the study add? Historically, the surgical management of renal tumours with intravascular tumour thrombus has been associated with high …",
             "publication_info": {
-                "summary": "SA Cholewiak, K Kim, HZ Tan… - IEEE Transactions on …, 2009 - ieeexplore.ieee.org",
+                "summary": "SM Lawindy, T Kurian, T Kim, D Mangar… - BJU …, 2012 - Wiley Online Library",
                 "authors": [
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "SM Lawindy"
                     },
                     {
-                        "name": "K Kim"
+                        "name": "T Kurian"
                     },
                     {
-                        "name": "HZ Tan",
-                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OiVOAHMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "T Kim"
                     },
                     {
-                        "name": "HZ Tan",
-                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OiVOAHMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MwL6-YApQfsJ",
-                "cited_by": {
-                    "total": 70,
-                    "link": "https://scholar.google.com/scholar?cites=18104797610932568627&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "18104797610932568627",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=18104797610932568627&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:MwL6-YApQfsJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AMwL6-YApQfsJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 8,
-                    "link": "https://scholar.google.com/scholar?cluster=18104797610932568627&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "18104797610932568627",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=18104797610932568627&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 3,
-            "title": "Creating correct blur and its effect on accommodation",
-            "result_id": "yaFMes1ZwnMJ",
-            "link": "https://jov.arvojournals.org/article.aspx?articleid=2701817",
-            "snippet": "Blur occurs naturally when the eye is focused at one distance and an object is presented at another distance. Computer-graphics engineers and vision scientists often wish to create …",
-            "publication_info": {
-                "summary": "SA Cholewiak, GD Love, MS Banks - Journal of Vision, 2018 - jov.arvojournals.org",
-                "authors": [
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "GD Love",
-                        "link": "https://scholar.google.com/citations?user=3xJXtlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "3xJXtlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3xJXtlwAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "MS Banks",
-                        "link": "https://scholar.google.com/citations?user=Smr99uEAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "Smr99uEAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Smr99uEAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "HZ Tan",
-                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OiVOAHMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-
-                ]
-            },
-            "resources": [
-                {
-                    "title": "arvojournals.org",
-                    "file_format": "PDF",
-                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/937491/i1534-7362-18-9-1.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yaFMes1ZwnMJ",
-                "cited_by": {
-                    "total": 80,
-                    "link": "https://scholar.google.com/scholar?cites=8341328198898590153&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "8341328198898590153",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=8341328198898590153&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:yaFMes1ZwnMJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AyaFMes1ZwnMJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 14,
-                    "link": "https://scholar.google.com/scholar?cluster=8341328198898590153&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "8341328198898590153",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8341328198898590153&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yaFMes1ZwnMJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
-            }
-        },
-        {
-            "position": 4,
-            "title": "Perception of physical stability and center of mass of 3-D objects",
-            "result_id": "K8ZpoI6hZNoJ",
-            "link": "https://jov.arvojournals.org/article.aspx?articleID=2213254",
-            "snippet": "Humans can judge from vision alone whether an object is physically stable or not. Such judgments allow observers to predict the physical behavior of objects, and hence to guide their …",
-            "publication_info": {
-                "summary": "SA Cholewiak, RW Fleming, M Singh - Journal of vision, 2015 - jov.arvojournals.org",
-                "authors": [
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "RW Fleming",
-                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "ruUKktgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "M Singh",
-                        "link": "https://scholar.google.com/citations?user=9XRvM88AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "9XRvM88AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9XRvM88AAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "arvojournals.org",
-                    "file_format": "PDF",
-                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/933690/i1534-7362-15-2-13.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=K8ZpoI6hZNoJ",
-                "cited_by": {
-                    "total": 39,
-                    "link": "https://scholar.google.com/scholar?cites=15736880631888070187&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "15736880631888070187",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=15736880631888070187&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:K8ZpoI6hZNoJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AK8ZpoI6hZNoJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 19,
-                    "link": "https://scholar.google.com/scholar?cluster=15736880631888070187&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "15736880631888070187",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=15736880631888070187&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:K8ZpoI6hZNoJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
-            }
-        },
-        {
-            "position": 5,
-            "title": "Visual perception of the physical stability of asymmetric three-dimensional objects",
-            "result_id": "gtZUmnKH9rkJ",
-            "type": "Html",
-            "link": "https://tvst.arvojournals.org/article.aspx?articleid=2121388",
-            "snippet": "Abstract Abstract: Abstract Visual estimation of object stability is an ecologically important judgment that allows observers to predict the physical behavior of objects. A natural method …",
-            "publication_info": {
-                "summary": "SA Cholewiak, RW Fleming, M Singh - Journal of vision, 2013 - tvst.arvojournals.org",
-                "authors": [
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "RW Fleming",
-                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "ruUKktgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "M Singh",
-                        "link": "https://scholar.google.com/citations?user=9XRvM88AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "9XRvM88AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9XRvM88AAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "arvojournals.org",
-                    "file_format": "HTML",
-                    "link": "https://tvst.arvojournals.org/article.aspx?articleid=2121388"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gtZUmnKH9rkJ",
-                "html_version": "https://tvst.arvojournals.org/article.aspx?articleid=2121388",
-                "cited_by": {
-                    "total": 38,
-                    "link": "https://scholar.google.com/scholar?cites=13400046667572762242&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "13400046667572762242",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=13400046667572762242&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:gtZUmnKH9rkJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AgtZUmnKH9rkJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 13,
-                    "link": "https://scholar.google.com/scholar?cluster=13400046667572762242&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "13400046667572762242",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=13400046667572762242&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gtZUmnKH9rkJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
-            }
-        },
-        {
-            "position": 6,
-            "title": "Lags and leads of accommodation in humans: Fact or fiction?",
-            "result_id": "kmOTFFPDlnwJ",
-            "link": "https://jov.arvojournals.org/article.aspx?articleid=2772431",
-            "snippet": "The focusing response of the human eye—accommodation—exhibits errors known as lags and leads. Lags occur when the stimulus is near and the eye appears to focus farther than …",
-            "publication_info": {
-                "summary": "V Labhishetty, SA Cholewiak, A Roorda… - Journal of …, 2021 - jov.arvojournals.org",
-                "authors": [
-                    {
-                        "name": "V Labhishetty"
-                    },
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "A Roorda",
-                        "link": "https://scholar.google.com/citations?user=OTLc4PIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OTLc4PIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OTLc4PIAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "arvojournals.org",
-                    "file_format": "PDF",
-                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938520/i1534-7362-21-3-21_1616585514.8805.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kmOTFFPDlnwJ",
-                "cited_by": {
-                    "total": 54,
-                    "link": "https://scholar.google.com/scholar?cites=8977577668804567954&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "8977577668804567954",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=8977577668804567954&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:kmOTFFPDlnwJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AkmOTFFPDlnwJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 15,
-                    "link": "https://scholar.google.com/scholar?cluster=8977577668804567954&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "8977577668804567954",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8977577668804567954&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kmOTFFPDlnwJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
-            }
-        },
-        {
-            "position": 7,
-            "title": "A perceptual eyebox for near-eye displays",
-            "result_id": "x-s1UfL25hUJ",
-            "link": "https://opg.optica.org/abstract.cfm?uri=oe-28-25-38008",
-            "snippet": "In near-eye display systems that support three-dimensional (3D) augmented and virtual reality, a central factor in determining the user experience is the size of the eyebox. The eyebox …",
-            "publication_info": {
-                "summary": "SA Cholewiak, Z Başgöze, O Cakmakci… - Optics …, 2020 - opg.optica.org",
-                "authors": [
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "Z Başgöze",
-                        "link": "https://scholar.google.com/citations?user=Ky6YeHQAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "Ky6YeHQAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ky6YeHQAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "O Cakmakci",
-                        "link": "https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "xZLjeAMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xZLjeAMAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "optica.org",
-                    "file_format": "PDF",
-                    "link": "https://opg.optica.org/viewmedia.cfm?uri=oe-28-25-38008&seq=0"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=x-s1UfL25hUJ",
-                "cited_by": {
-                    "total": 47,
-                    "link": "https://scholar.google.com/scholar?cites=1578220240044944327&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "1578220240044944327",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1578220240044944327&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:x-s1UfL25hUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Ax-s1UfL25hUJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 5,
-                    "link": "https://scholar.google.com/scholar?cluster=1578220240044944327&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "1578220240044944327",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1578220240044944327&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 8,
-            "title": "Haptic identification of stiffness and force magnitude",
-            "result_id": "T_lFpGS-6oEJ",
-            "link": "https://ieeexplore.ieee.org/abstract/document/4479918/",
-            "snippet": "As haptics becomes an integral component of scientific data visualization systems, there is a growing need to study \"haptic glyphs\" (building blocks for displaying information through …",
-            "publication_info": {
-                "summary": "SA Cholewiak, HZ Tan, DS Ebert - 2008 Symposium on Haptic …, 2008 - ieeexplore.ieee.org",
-                "authors": [
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "HZ Tan",
-                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OiVOAHMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "DS Ebert",
-                        "link": "https://scholar.google.com/citations?user=LB2Ji0sAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "LB2Ji0sAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LB2Ji0sAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "D Mangar",
+                        "link": "https://scholar.google.com/citations?user=5cpy61cAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "5cpy61cAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5cpy61cAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
@@ -462,655 +129,923 @@
                 {
                     "title": "academia.edu",
                     "file_format": "PDF",
-                    "link": "https://www.academia.edu/download/30848808/2008_Cholewiak.pdf"
+                    "link": "https://www.academia.edu/download/78356708/9-Renal_Cell_Carcinoma.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T_lFpGS-6oEJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1zv39lDS0bMJ",
                 "cited_by": {
-                    "total": 63,
-                    "link": "https://scholar.google.com/scholar?cites=9361504114905053519&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "9361504114905053519",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=9361504114905053519&engine=google_scholar&hl=en&num=20"
+                    "total": 192,
+                    "link": "https://scholar.google.com/scholar?cites=12957368848104242135&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "12957368848104242135",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12957368848104242135&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:T_lFpGS-6oEJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AT_lFpGS-6oEJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:1zv39lDS0bMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A1zv39lDS0bMJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 13,
-                    "link": "https://scholar.google.com/scholar?cluster=9361504114905053519&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "9361504114905053519",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=9361504114905053519&engine=google_scholar&hl=en&num=20"
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cluster=12957368848104242135&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "12957368848104242135",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12957368848104242135&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Machine learning in cardiac CT: basic concepts and contemporary data",
+            "result_id": "tQ28heBEdjkJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1934592518300844",
+            "snippet": "Propelled by the synergy of the groundbreaking advancements in the ability to analyze high-dimensional datasets and the increasing availability of imaging and clinical data, machine …",
+            "publication_info": {
+                "summary": "G Singh, SJ Al'Aref, M Van Assen, TS Kim… - Journal of …, 2018 - Elsevier",
+                "authors": [
+                    {
+                        "name": "G Singh",
+                        "link": "https://scholar.google.com/citations?user=IKBgQ7cAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "IKBgQ7cAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IKBgQ7cAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SJ Al'Aref",
+                        "link": "https://scholar.google.com/citations?user=EleQiv8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "EleQiv8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EleQiv8AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "M Van Assen",
+                        "link": "https://scholar.google.com/citations?user=MTFIqAgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "MTFIqAgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MTFIqAgAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "TS Kim"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tQ28heBEdjkJ",
+                "cited_by": {
+                    "total": 136,
+                    "link": "https://scholar.google.com/scholar?cites=4140572638520806837&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "4140572638520806837",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4140572638520806837&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:tQ28heBEdjkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AtQ28heBEdjkJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=4140572638520806837&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "4140572638520806837",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4140572638520806837&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "A characterization of dendritic cells and their role in immunotherapy in glioblastoma: from preclinical studies to clinical trials",
+            "result_id": "AZ6lIyZ-akMJ",
+            "type": "Html",
+            "link": "https://www.mdpi.com/2072-6694/11/4/537",
+            "snippet": "Glioblastoma (GBM) is the most common and fatal primary central nervous system malignancy in adults with a median survival of less than 15 months. Surgery, radiation, and …",
+            "publication_info": {
+                "summary": "S Srivastava, C Jackson, T Kim, J Choi, M Lim - Cancers, 2019 - mdpi.com",
+                "authors": [
+                    {
+                        "name": "S Srivastava"
+                    },
+                    {
+                        "name": "C Jackson",
+                        "link": "https://scholar.google.com/citations?user=hVO81YwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "hVO81YwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hVO81YwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "T Kim"
+                    },
+                    {
+                        "name": "J Choi",
+                        "link": "https://scholar.google.com/citations?user=yY101J0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "yY101J0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yY101J0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "M Lim"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "mdpi.com",
+                    "file_format": "HTML",
+                    "link": "https://www.mdpi.com/2072-6694/11/4/537"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AZ6lIyZ-akMJ",
+                "html_version": "https://www.mdpi.com/2072-6694/11/4/537",
+                "cited_by": {
+                    "total": 142,
+                    "link": "https://scholar.google.com/scholar?cites=4857833850344414721&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "4857833850344414721",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4857833850344414721&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:AZ6lIyZ-akMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AAZ6lIyZ-akMJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=4857833850344414721&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "4857833850344414721",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4857833850344414721&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AZ6lIyZ-akMJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
+            }
+        },
+        {
+            "position": 5,
+            "title": "Inferring latent dynamics underlying neural population activity via neural differential equations",
+            "result_id": "84SqTDcMX8UJ",
+            "link": "http://proceedings.mlr.press/v139/kim21h.html",
+            "snippet": "An important problem in systems neuroscience is to identify the latent dynamics underlying neural population activity. Here we address this problem by introducing a low-dimensional …",
+            "publication_info": {
+                "summary": "TD Kim, TZ Luo, JW Pillow… - … conference on machine …, 2021 - proceedings.mlr.press",
+                "authors": [
+                    {
+                        "name": "TD Kim",
+                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "FTWUPusAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "TZ Luo",
+                        "link": "https://scholar.google.com/citations?user=w59lcBoAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "w59lcBoAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w59lcBoAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "JW Pillow",
+                        "link": "https://scholar.google.com/citations?user=-ElvJ9wAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "-ElvJ9wAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-ElvJ9wAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "mlr.press",
+                    "file_format": "PDF",
+                    "link": "http://proceedings.mlr.press/v139/kim21h/kim21h.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=84SqTDcMX8UJ",
+                "cited_by": {
+                    "total": 85,
+                    "link": "https://scholar.google.com/scholar?cites=14222099579908293875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "14222099579908293875",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14222099579908293875&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:84SqTDcMX8UJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A84SqTDcMX8UJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=14222099579908293875&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "14222099579908293875",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14222099579908293875&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:84SqTDcMX8UJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Predicting postoperative complications of inguinal lymph node dissection for penile cancer in an international multicentre cohort",
+            "result_id": "6hY5Ew_SGCUJ",
+            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13009",
+            "snippet": "Objectives To assess the potential complications associated with inguinal lymph node dissection ( ILND ) across international tertiary care referral centres, and to determine the …",
+            "publication_info": {
+                "summary": "…, Y Zhu, C Protzel, JM Pow‐Sang, T Kim… - BJU …, 2015 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "Y Zhu"
+                    },
+                    {
+                        "name": "C Protzel"
+                    },
+                    {
+                        "name": "JM Pow‐Sang"
+                    },
+                    {
+                        "name": "T Kim"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6hY5Ew_SGCUJ",
+                "cited_by": {
+                    "total": 104,
+                    "link": "https://scholar.google.com/scholar?cites=2673117341033240298&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "2673117341033240298",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2673117341033240298&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:6hY5Ew_SGCUJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A6hY5Ew_SGCUJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=2673117341033240298&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "2673117341033240298",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2673117341033240298&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Parasite resistance and genetic variation in the endangered Gila topminnow",
+            "result_id": "bqD1gtdE1UkJ",
+            "link": "https://www.cambridge.org/core/journals/animal-conservation-forum/article/parasite-resistance-and-genetic-variation-in-the-endangered-gila-topminnow/35FFC6CDC311F36F61B48C24BA585DFE",
+            "snippet": "In recent years, it has become apparent that introduced or novel pathogens or parasites may have a significant negative impact on endangered species. Here we examine …",
+            "publication_info": {
+                "summary": "PW Hedrick, TJ Kim, KM Parker - Animal Conservation Forum, 2001 - cambridge.org",
+                "authors": [
+                    {
+                        "name": "PW Hedrick"
+                    },
+                    {
+                        "name": "TJ Kim"
+                    },
+                    {
+                        "name": "KM Parker",
+                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "rPoMPlwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bqD1gtdE1UkJ",
+                "cited_by": {
+                    "total": 159,
+                    "link": "https://scholar.google.com/scholar?cites=5320234227213901934&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "5320234227213901934",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5320234227213901934&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:bqD1gtdE1UkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AbqD1gtdE1UkJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=5320234227213901934&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "5320234227213901934",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5320234227213901934&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Implications for human papillomavirus in penile cancer",
+            "result_id": "c_2xacFZk1sJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1078143913003207",
+            "snippet": "Human papillomavirus infection (HPV) has been implicated in penile cancer, and although the annual incidence is estimated to be 1,570 in the United States, there are areas of the …",
+            "publication_info": {
+                "summary": "A Flaherty, T Kim, A Giuliano, A Magliocco… - … Oncology: Seminars and …, 2014 - Elsevier",
+                "authors": [
+                    {
+                        "name": "A Flaherty"
+                    },
+                    {
+                        "name": "T Kim"
+                    },
+                    {
+                        "name": "A Giuliano"
+                    },
+                    {
+                        "name": "A Magliocco",
+                        "link": "https://scholar.google.com/citations?user=f1oJ5gIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "f1oJ5gIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f1oJ5gIAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c_2xacFZk1sJ",
+                "cited_by": {
+                    "total": 83,
+                    "link": "https://scholar.google.com/scholar?cites=6598716566264741235&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "6598716566264741235",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6598716566264741235&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:c_2xacFZk1sJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ac_2xacFZk1sJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=6598716566264741235&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "6598716566264741235",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6598716566264741235&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 9,
-            "title": "Contributions of foveal and non-foveal retina to the human eye's focusing response",
-            "result_id": "lof0Jv4PuBIJ",
-            "link": "https://jov.arvojournals.org/article.aspx?articleid=2753339",
-            "snippet": "The human eye changes focus—accommodates—to minimize blur in the retinal image. Previous work has shown that stimulation of nonfoveal retina can produce accommodative …",
+            "title": "Using percentage of sarcomatoid differentiation as a prognostic factor in renal cell carcinoma",
+            "result_id": "2j94M1MjLq0J",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1558767314002614",
+            "snippet": "Background The objective of this study was to determine if the percentage of sarcomatoid differentiation (%Sarc) in renal cell carcinoma (RCC) can be used for prognostic risk …",
             "publication_info": {
-                "summary": "V Labhishetty, SA Cholewiak, MS Banks - Journal of Vision, 2019 - jov.arvojournals.org",
+                "summary": "T Kim, K Zargar-Shoshtari, J Dhillon, HY Lin… - Clinical genitourinary …, 2015 - Elsevier",
                 "authors": [
                     {
-                        "name": "V Labhishetty"
+                        "name": "T Kim"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "K Zargar-Shoshtari",
+                        "link": "https://scholar.google.com/citations?user=LCHRmLYAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "LCHRmLYAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LCHRmLYAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "MS Banks",
-                        "link": "https://scholar.google.com/citations?user=Smr99uEAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "Smr99uEAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Smr99uEAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "J Dhillon"
+                    },
+                    {
+                        "name": "HY Lin"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "arvojournals.org",
-                    "file_format": "PDF",
-                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938222/i1534-7362-19-12-18.pdf"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lof0Jv4PuBIJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2j94M1MjLq0J",
                 "cited_by": {
-                    "total": 31,
-                    "link": "https://scholar.google.com/scholar?cites=1348845672647133078&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "1348845672647133078",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1348845672647133078&engine=google_scholar&hl=en&num=20"
+                    "total": 68,
+                    "link": "https://scholar.google.com/scholar?cites=12478950457742999514&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "12478950457742999514",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12478950457742999514&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lof0Jv4PuBIJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Alof0Jv4PuBIJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:2j94M1MjLq0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A2j94M1MjLq0J%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=1348845672647133078&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "1348845672647133078",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1348845672647133078&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lof0Jv4PuBIJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=12478950457742999514&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "12478950457742999514",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12478950457742999514&engine=google_scholar&hl=en&num=20"
+                }
             }
         },
         {
             "position": 10,
-            "title": "Orientation fields predict human perception of 3D shape from shading",
-            "result_id": "YvSOuO_AYmYJ",
-            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2503088122",
-            "snippet": "How the brain recovers the three-dimensional structure of surfaces and objects from 2D retinal images remains mysterious. Shading patterns provide one of the most powerful—yet least …",
+            "title": "Preoperative metastatic status, level of thrombus and body mass index predict overall survival in patients undergoing nephrectomy and inferior vena cava …",
+            "result_id": "EQA9Y6gVwhgJ",
+            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11155.x",
+            "snippet": "Study Type – Prognosis (case series) Level of Evidence 4 What's known on the subject? and What does the study add? Little is known about the prognostic impact of body mass index (…",
             "publication_info": {
-                "summary": "C Aubuchon, R Vergne, SA Cholewiak… - Proceedings of the …, 2025 - pnas.org",
+                "summary": "PE Spiess, T Kurian, HY Lin, B Rawal, T Kim… - BJU …, 2012 - Wiley Online Library",
                 "authors": [
                     {
-                        "name": "C Aubuchon",
-                        "link": "https://scholar.google.com/citations?user=VR7YqS0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "VR7YqS0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VR7YqS0AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "PE Spiess"
                     },
                     {
-                        "name": "R Vergne"
+                        "name": "T Kurian"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "HY Lin"
+                    },
+                    {
+                        "name": "B Rawal",
+                        "link": "https://scholar.google.com/citations?user=qzSRwmwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "qzSRwmwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qzSRwmwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "T Kim"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "pnas.org",
-                    "file_format": "PDF",
-                    "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2503088122"
-                },
-                {
-                    "title": "Full View",
-                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:YvSOuO_AYmYJ:scholar.google.com/&hl=en&num=20&as_sdt=0,18&scillfp=5878878490013549953&oi=lle"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YvSOuO_AYmYJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EQA9Y6gVwhgJ",
                 "cited_by": {
-                    "total": 1,
-                    "link": "https://scholar.google.com/scholar?cites=7377671275412386914&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "7377671275412386914",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=7377671275412386914&engine=google_scholar&hl=en&num=20"
+                    "total": 43,
+                    "link": "https://scholar.google.com/scholar?cites=1784012215355768849&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "1784012215355768849",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1784012215355768849&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:YvSOuO_AYmYJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AYvSOuO_AYmYJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:EQA9Y6gVwhgJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AEQA9Y6gVwhgJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
                     "total": 6,
-                    "link": "https://scholar.google.com/scholar?cluster=7377671275412386914&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "7377671275412386914",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=7377671275412386914&engine=google_scholar&hl=en&num=20"
+                    "link": "https://scholar.google.com/scholar?cluster=1784012215355768849&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "1784012215355768849",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1784012215355768849&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 11,
-            "title": "The visual benefits of correcting longitudinal and transverse chromatic aberration",
-            "result_id": "93BHr9V0NhAJ",
-            "link": "https://jov.arvojournals.org/article.aspx?articleid=2785331",
-            "snippet": "We describe a system—the Binocular Varichrome and Accommodation Measurement System—that can be used to measure and correct the eye’s longitudinal and transverse chromatic …",
+            "title": "A polymorphism in TIM1 is associated with susceptibility to severe hepatitis A virus infection in humans",
+            "result_id": "BYviSc5qqgoJ",
+            "link": "https://www.jci.org/articles/view/44182",
+            "snippet": "… TIM-1 binds HAV more efficiently than the short form of TIM-1, and that NKT cells expressing the long form of TIM… in individuals with the long form of TIM-1. Importantly, our observation …",
             "publication_info": {
-                "summary": "A Roorda, SA Cholewiak, S Bhargava… - Journal of …, 2023 - jov.arvojournals.org",
+                "summary": "HY Kim, MB Eyheramonho, M Pichavant… - The Journal of clinical …, 2011 - jci.org",
                 "authors": [
                     {
-                        "name": "A Roorda",
-                        "link": "https://scholar.google.com/citations?user=OTLc4PIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "OTLc4PIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OTLc4PIAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "HY Kim",
+                        "link": "https://scholar.google.com/citations?user=7mLJ_ZYAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "7mLJ_ZYAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7mLJ_ZYAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "MB Eyheramonho"
                     },
                     {
-                        "name": "S Bhargava",
-                        "link": "https://scholar.google.com/citations?user=E-vYTkgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "E-vYTkgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E-vYTkgAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "M Pichavant",
+                        "link": "https://scholar.google.com/citations?user=_TLW2hIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "_TLW2hIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_TLW2hIAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "arvojournals.org",
+                    "title": "jci.org",
                     "file_format": "PDF",
-                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938622/i1534-7362-23-2-3_1675251374.23804.pdf"
+                    "link": "https://www.jci.org/articles/view/44182/files/pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=93BHr9V0NhAJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BYviSc5qqgoJ",
                 "cited_by": {
-                    "total": 19,
-                    "link": "https://scholar.google.com/scholar?cites=1168249614466773239&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "1168249614466773239",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1168249614466773239&engine=google_scholar&hl=en&num=20"
+                    "total": 129,
+                    "link": "https://scholar.google.com/scholar?cites=768544120655481605&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "768544120655481605",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=768544120655481605&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:93BHr9V0NhAJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3A93BHr9V0NhAJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:BYviSc5qqgoJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ABYviSc5qqgoJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 12,
-                    "link": "https://scholar.google.com/scholar?cluster=1168249614466773239&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "1168249614466773239",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1168249614466773239&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:93BHr9V0NhAJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cluster=768544120655481605&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "768544120655481605",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=768544120655481605&engine=google_scholar&hl=en&num=20"
+                }
             }
         },
         {
             "position": 12,
-            "title": "Inferring the intentional states of autonomous virtual agents",
-            "result_id": "lf3M0c0mW7sJ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S0010027713002291",
-            "snippet": "Inferring the mental states of other agents, including their goals and intentions, is a central problem in cognition. A critical aspect of this problem is that one cannot observe mental states …",
+            "title": "Genetic disparity between morphologically benign cysts contiguous to ovarian carcinomas and solitary cystadenomas",
+            "result_id": "M0zNZvaFkc0J",
+            "link": "https://academic.oup.com/jnci/article-abstract/87/15/1146/1091564",
+            "snippet": "Background: Ovarian carcinomas occasionally contain large, histologically benign cysts contiguous to the clearly malignant areas (cystadenocarcinomas). The question of whether such …",
             "publication_info": {
-                "summary": "PC Pantelis, CL Baker, SA Cholewiak, K Sanik… - Cognition, 2014 - Elsevier",
+                "summary": "…, WF Benedict, HJ Xu, SX Hu, TM Kim… - JNCI: Journal of the …, 1995 - academic.oup.com",
                 "authors": [
                     {
-                        "name": "PC Pantelis",
-                        "link": "https://scholar.google.com/citations?user=FoVvIK0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FoVvIK0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FoVvIK0AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": ""
                     },
                     {
-                        "name": "CL Baker",
-                        "link": "https://scholar.google.com/citations?user=bTdT7hAAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "bTdT7hAAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bTdT7hAAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "WF Benedict"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "HJ Xu"
                     },
                     {
-                        "name": "K Sanik"
+                        "name": "SX Hu"
+                    },
+                    {
+                        "name": "TM Kim"
                     }
                 ]
             },
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lf3M0c0mW7sJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M0zNZvaFkc0J",
                 "cited_by": {
-                    "total": 47,
-                    "link": "https://scholar.google.com/scholar?cites=13500426973403217301&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "13500426973403217301",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=13500426973403217301&engine=google_scholar&hl=en&num=20"
+                    "total": 108,
+                    "link": "https://scholar.google.com/scholar?cites=14812767942731451443&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "14812767942731451443",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14812767942731451443&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lf3M0c0mW7sJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Alf3M0c0mW7sJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:M0zNZvaFkc0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AM0zNZvaFkc0J%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 14,
-                    "link": "https://scholar.google.com/scholar?cluster=13500426973403217301&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "13500426973403217301",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=13500426973403217301&engine=google_scholar&hl=en&num=20"
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=14812767942731451443&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "14812767942731451443",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14812767942731451443&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 13,
-            "title": "The tipping point: Visual estimation of the physical stability of three-dimensional objects",
-            "result_id": "fFpcFAkSMJgJ",
-            "type": "Book",
-            "link": "https://search.proquest.com/openview/451b700d30040d557b74d020568ddc47/1?pq-origsite=gscholar&cbl=18750",
-            "snippet": "Vision research generally focuses on the currently visible surface properties of objects, such as color, texture, luminance, orientation, and shape. In addition, however, observers can …",
+            "title": "Loss of heterozygosity on chromosome 13 is common only in the biologically more aggressive subtypes of ovarian epithelial tumors and is associated with normal …",
+            "result_id": "HGJE9SX4PloJ",
+            "link": "https://aacrjournals.org/cancerres/article-abstract/54/3/605/500964",
+            "snippet": "We examined the frequencies of loss of heterozygosity on chromosome 13 in 77 primary ovarian epithelial tumors subdivided into cystadenomas, tumors of low malignant potential, low …",
             "publication_info": {
-                "summary": "SA Cholewiak - 2012 - search.proquest.com",
+                "summary": "TM Kim, WF Benedict, HJ Xu, SX Hu, J Gosewehr… - Cancer …, 1994 - aacrjournals.org",
                 "authors": [
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "TM Kim"
+                    },
+                    {
+                        "name": "WF Benedict"
+                    },
+                    {
+                        "name": "HJ Xu"
+                    },
+                    {
+                        "name": "SX Hu"
+                    },
+                    {
+                        "name": "J Gosewehr"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "rutgers.edu",
+                    "title": "researchgate.net",
                     "file_format": "PDF",
-                    "link": "https://rucore.libraries.rutgers.edu/rutgers-lib/38730/PDF/1/"
+                    "link": "https://www.researchgate.net/profile/Louis-Dubeau/publication/14893616_Loss_of_Heterozygosity_on_Chromosome_13_Is_Common_Only_in_the_Biologically_More_Aggressive_Subtypes_of_Ovarian_Epithelial_Tumors_and_Is_Associated_with_Normal_Retinoblastoma_Gene_Expression/links/0c9605182947bea57a000000/Loss-of-Heterozygosity-on-Chromosome-13-Is-Common-Only-in-the-Biologically-More-Aggressive-Subtypes-of-Ovarian-Epithelial-Tumors-and-Is-Associated-with-Normal-Retinoblastoma-Gene-Expression.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fFpcFAkSMJgJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HGJE9SX4PloJ",
                 "cited_by": {
-                    "total": 1,
-                    "link": "https://scholar.google.com/scholar?cites=10966284922852760188&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "10966284922852760188",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=10966284922852760188&engine=google_scholar&hl=en&num=20"
+                    "total": 106,
+                    "link": "https://scholar.google.com/scholar?cites=6502907753881952796&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "6502907753881952796",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6502907753881952796&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:fFpcFAkSMJgJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AfFpcFAkSMJgJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:HGJE9SX4PloJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHGJE9SX4PloJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 4,
-                    "link": "https://scholar.google.com/scholar?cluster=10966284922852760188&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "10966284922852760188",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=10966284922852760188&engine=google_scholar&hl=en&num=20"
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=6502907753881952796&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "6502907753881952796",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6502907753881952796&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 14,
-            "title": "Perception of the physical stability of asymmetrical three-dimensional objects",
-            "result_id": "j3sloY7vQOUJ",
-            "type": "Pdf",
-            "link": "https://pdfs.semanticscholar.org/c4f6/3f2a2f31b0fe46fdf98483323d4a47ab1f77.pdf",
-            "snippet": "Visual estimation of object stability is an ecologically important judgment that allows observers to predict the physical behavior of objects. A natural method that has been used in …",
+            "title": "Potential role of the inactivated X chromosome in ovarian epithelial tumor development",
+            "result_id": "hE4SQG4fWScJ",
+            "link": "https://academic.oup.com/jnci/article-abstract/88/8/510/915110",
+            "snippet": "Background: Ovarian epithelial tumors can be divided into subcategories often regarded as different stages of neoplastic transformation. Cystadenomas belong to the least aggressive …",
             "publication_info": {
-                "summary": "SA Cholewiak, RW Fleming… - Journal of Vision …, 2012 - pdfs.semanticscholar.org",
+                "summary": "PC Cheng, JA Gosewehr, TM Kim… - JNCI: Journal of the …, 1996 - academic.oup.com",
                 "authors": [
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "PC Cheng"
                     },
                     {
-                        "name": "RW Fleming",
-                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "ruUKktgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "JA Gosewehr"
+                    },
+                    {
+                        "name": "TM Kim"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "semanticscholar.org",
+                    "title": "oup.com",
                     "file_format": "PDF",
-                    "link": "https://pdfs.semanticscholar.org/c4f6/3f2a2f31b0fe46fdf98483323d4a47ab1f77.pdf"
+                    "link": "https://academic.oup.com/jnci/article-pdf/88/8/510/7811794/88-8-510.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j3sloY7vQOUJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hE4SQG4fWScJ",
                 "cited_by": {
-                    "total": 2,
-                    "link": "https://scholar.google.com/scholar?cites=16519466829062962063&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "16519466829062962063",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=16519466829062962063&engine=google_scholar&hl=en&num=20"
+                    "total": 94,
+                    "link": "https://scholar.google.com/scholar?cites=2835331998788243076&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "2835331998788243076",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2835331998788243076&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:j3sloY7vQOUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Aj3sloY7vQOUJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:hE4SQG4fWScJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AhE4SQG4fWScJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 5,
-                    "link": "https://scholar.google.com/scholar?cluster=16519466829062962063&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "16519466829062962063",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=16519466829062962063&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:j3sloY7vQOUJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=2835331998788243076&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "2835331998788243076",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2835331998788243076&engine=google_scholar&hl=en&num=20"
+                }
             }
         },
         {
             "position": 15,
-            "title": "Perceptual estimation of variance in orientation and its dependence on sample size",
-            "result_id": "7VuQSoMStnUJ",
-            "type": "Book",
-            "link": "https://search.proquest.com/openview/989625a39b30653d439c38c6946a2d37/1?pq-origsite=gscholar&cbl=18750",
-            "snippet": "… Cholewiak … Abstract of the Thesis Perceptual estimation of variance in orientation and its dependence on sample size By Steven A. Cholewiak …",
+            "title": "Major histocompatibility complex differentiation in Sacramento River chinook salmon",
+            "result_id": "lYAwOTFu7EIJ",
+            "link": "https://academic.oup.com/genetics/article-abstract/151/3/1115/6034703",
+            "snippet": "The chinook salmon of the Sacramento River, California, have been reduced to a fraction of their former abundance because of human impact and use of the river system. Here we …",
             "publication_info": {
-                "summary": "SA Cholewiak - 2010 - search.proquest.com",
+                "summary": "TJ Kim, KM Parker, PW Hedrick - Genetics, 1999 - academic.oup.com",
                 "authors": [
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "TJ Kim"
+                    },
+                    {
+                        "name": "KM Parker",
+                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "rPoMPlwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "PW Hedrick"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "rutgers.edu",
+                    "title": "nih.gov",
                     "file_format": "PDF",
-                    "link": "https://rucore.libraries.rutgers.edu/rutgers-lib/27431/PDF/1/play/"
+                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1460519/pdf/10049927.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7VuQSoMStnUJ",
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:7VuQSoMStnUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3A7VuQSoMStnUJ%3Ascholar.google.com%2F&start=0",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lYAwOTFu7EIJ",
+                "cited_by": {
+                    "total": 80,
+                    "link": "https://scholar.google.com/scholar?cites=4822350458698891413&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "4822350458698891413",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4822350458698891413&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lYAwOTFu7EIJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlYAwOTFu7EIJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=8481987303299898349&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "8481987303299898349",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8481987303299898349&engine=google_scholar&hl=en&num=20"
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=4822350458698891413&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "4822350458698891413",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4822350458698891413&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 16,
-            "title": "Varifocal virtuality: a novel optical layout for near-eye display",
-            "result_id": "CNjM3h5lm_sJ",
-            "link": "https://dl.acm.org/doi/abs/10.1145/3084822.3084829",
-            "snippet": "Augmented reality (AR) has recently gained momentum in the form of a variety of available optical see-through near-eye displays (NEDs) such as the Meta 2and the Microsoft Hololens. …",
+            "title": "Identification of Tapr (an airway hyperreactivity regulatory locus) and the linked Tim gene family",
+            "result_id": "Q99kyUWOCpQJ",
+            "link": "https://www.nature.com/articles/ni739",
+            "snippet": "… rat KIM-1 and 42% identity with human HAVcr-1. The multiple sequence alignment with mouse TIM-1, rat KIM-… -1 showed the degree of homology between the TIM-1, KIM-1 and HAVcr-1 …",
             "publication_info": {
-                "summary": "…, A Patney, P Shirley, D Luebke, SA Cholewiak… - ACM SIGGRAPH 2017 …, 2017 - dl.acm.org",
+                "summary": "JJ McIntire, SE Umetsu, O Akbari, M Potter… - Nature …, 2001 - nature.com",
                 "authors": [
                     {
-                        "name": ""
+                        "name": "JJ McIntire"
                     },
                     {
-                        "name": "A Patney",
-                        "link": "https://scholar.google.com/citations?user=RbUgwbwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "RbUgwbwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RbUgwbwAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "SE Umetsu"
                     },
                     {
-                        "name": "P Shirley"
+                        "name": "O Akbari",
+                        "link": "https://scholar.google.com/citations?user=AU_LEn8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "AU_LEn8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AU_LEn8AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "D Luebke",
-                        "link": "https://scholar.google.com/citations?user=AE7Xvl0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "AE7Xvl0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AE7Xvl0AAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "M Potter"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "acm.org",
-                    "file_format": "PDF",
-                    "link": "https://dl.acm.org/doi/pdf/10.1145/3084822.3084829"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CNjM3h5lm_sJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q99kyUWOCpQJ",
                 "cited_by": {
-                    "total": 16,
-                    "link": "https://scholar.google.com/scholar?cites=18130195908171454472&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "18130195908171454472",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=18130195908171454472&engine=google_scholar&hl=en&num=20"
+                    "total": 747,
+                    "link": "https://scholar.google.com/scholar?cites=10667495097763159875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "10667495097763159875",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10667495097763159875&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:CNjM3h5lm_sJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3ACNjM3h5lm_sJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Q99kyUWOCpQJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AQ99kyUWOCpQJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 8,
-                    "link": "https://scholar.google.com/scholar?cluster=18130195908171454472&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "18130195908171454472",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=18130195908171454472&engine=google_scholar&hl=en&num=20"
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=10667495097763159875&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "10667495097763159875",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10667495097763159875&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 17,
-            "title": "Discrimination of real and virtual surfaces with sinusoidal and triangular gratings using the fingertip and stylus",
-            "result_id": "T09lSfmpkucJ",
-            "link": "https://ieeexplore.ieee.org/abstract/document/6216374/",
-            "snippet": "Two-interval two-alternative forced-choice discrimination experiments were conducted separately for sinusoidal and triangular textured surface gratings from which amplitude (ie, height…",
+            "title": "Combination therapy with anti-PD-1, anti-TIM-3, and focal radiation results in regression of murine gliomas",
+            "result_id": "e6sli7EzY6wJ",
+            "link": "https://aacrjournals.org/clincancerres/article-abstract/23/1/124/122710",
+            "snippet": "… We investigate TIM-3 expression in a glioma model and the antitumor efficacy of TIM-3 … We also demonstrate the presence of TIM-3 in human glioblastoma multiforme and provide …",
             "publication_info": {
-                "summary": "MB Kocsis, SA Cholewiak, RM Traylor… - IEEE transactions on …, 2012 - ieeexplore.ieee.org",
+                "summary": "JE Kim, MA Patel, A Mangraviti, ES Kim… - Clinical Cancer …, 2017 - aacrjournals.org",
                 "authors": [
                     {
-                        "name": "MB Kocsis"
+                        "name": "JE Kim",
+                        "link": "https://scholar.google.com/citations?user=lZ3Bc3cAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "lZ3Bc3cAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lZ3Bc3cAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "MA Patel",
+                        "link": "https://scholar.google.com/citations?user=4x1fpHAAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4x1fpHAAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4x1fpHAAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "RM Traylor"
+                        "name": "A Mangraviti"
+                    },
+                    {
+                        "name": "ES Kim"
                     }
                 ]
             },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "PDF",
+                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5735836/pdf/nihms924376.pdf"
+                }
+            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T09lSfmpkucJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e6sli7EzY6wJ",
                 "cited_by": {
-                    "total": 18,
-                    "link": "https://scholar.google.com/scholar?cites=16686586457504436047&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "16686586457504436047",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=16686586457504436047&engine=google_scholar&hl=en&num=20"
+                    "total": 511,
+                    "link": "https://scholar.google.com/scholar?cites=12421829034854689659&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "12421829034854689659",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12421829034854689659&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:T09lSfmpkucJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AT09lSfmpkucJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:e6sli7EzY6wJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ae6sli7EzY6wJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=16686586457504436047&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "16686586457504436047",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=16686586457504436047&engine=google_scholar&hl=en&num=20"
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=12421829034854689659&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "12421829034854689659",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12421829034854689659&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 18,
-            "title": "Vibrotactile localization on the arm: Effects of place, space, and age",
-            "result_id": "dJkWzIF_DIQJ",
-            "link": "https://link.springer.com/article/10.3758/BF03194834",
-            "snippet": "… Cesaro, Heather Stamberger, and Steven Cholewiak for their assistance in collecting and … Correspondence concerning this article should be sent to RW Cholewiak or AA Collins, …",
+            "title": "Networked intelligent motor-control systems",
+            "result_id": "C3vThzlEl70J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/959112/",
+            "snippet": "The integration of intelligent devices, device-level networks, and software into motor-control systems can deliver improved diagnostics, early warnings for increased system reliability, …",
             "publication_info": {
-                "summary": "RW Cholewiak, AA Collins - Perception & psychophysics, 2003 - Springer",
-                "authors": [
-                    {
-                        "name": "RW Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=LgU3FXIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "LgU3FXIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LgU3FXIAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "AA Collins"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "springer.com",
-                    "file_format": "PDF",
-                    "link": "https://link.springer.com/content/pdf/10.3758/BF03194834.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dJkWzIF_DIQJ",
-                "cited_by": {
-                    "total": 462,
-                    "link": "https://scholar.google.com/scholar?cites=9515120308178557300&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "9515120308178557300",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=9515120308178557300&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:dJkWzIF_DIQJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AdJkWzIF_DIQJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 11,
-                    "link": "https://scholar.google.com/scholar?cluster=9515120308178557300&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "9515120308178557300",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=9515120308178557300&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 19,
-            "title": "Agency and rationality: Adopting the intentional stance toward evolved virtual agents.",
-            "result_id": "LiBwGpoQTFcJ",
-            "link": "https://psycnet.apa.org/fulltext/2015-45625-001.html",
-            "snippet": "The interpretation of other agents as intentional actors equipped with mental states has been connected to the attribution of rationality to their behavior. But a workable definition of “…",
-            "publication_info": {
-                "summary": "…, T Gerstner, K Sanik, A Weinstein, SA Cholewiak… - Decision, 2016 - psycnet.apa.org",
+                "summary": "…, DR Doan, DL Jensen, TK Kim - IEEE Industry …, 2001 - ieeexplore.ieee.org",
                 "authors": [
                     {
                         "name": ""
                     },
                     {
-                        "name": "T Gerstner"
+                        "name": "DR Doan"
                     },
                     {
-                        "name": "K Sanik"
+                        "name": "DL Jensen"
                     },
                     {
-                        "name": "A Weinstein",
-                        "link": "https://scholar.google.com/citations?user=MnUboHYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "MnUboHYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MnUboHYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "TK Kim"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "apa.org",
+                    "title": "ieee.org",
                     "file_format": "PDF",
-                    "link": "https://psycnet.apa.org/manuscript/2015-45625-001.pdf"
+                    "link": "https://ieeexplore.ieee.org/iel5/2943/20727/00959112.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LiBwGpoQTFcJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=C3vThzlEl70J",
                 "cited_by": {
-                    "total": 14,
-                    "link": "https://scholar.google.com/scholar?cites=6290421033584304174&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "6290421033584304174",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=6290421033584304174&engine=google_scholar&hl=en&num=20"
+                    "total": 23,
+                    "link": "https://scholar.google.com/scholar?cites=13661463008534297355&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "13661463008534297355",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13661463008534297355&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:LiBwGpoQTFcJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3ALiBwGpoQTFcJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:C3vThzlEl70J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AC3vThzlEl70J%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=6290421033584304174&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "6290421033584304174",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=6290421033584304174&engine=google_scholar&hl=en&num=20"
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=13661463008534297355&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "13661463008534297355",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13661463008534297355&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 19,
+            "title": "Kim-1/Tim-1 and immune cells: shifting sands",
+            "result_id": "lRSLYNcQrbYJ",
+            "type": "Html",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
+            "snippet": "… -1 in rodent acute kidney injury showed an absence of interstitial Kim-1, suggesting that Kim-1/Tim-… nominal Tim-1 expression on a minority of T cells and abundant kidney tubular Kim-1 …",
+            "publication_info": {
+                "summary": "T Ichimura, CR Brooks, JV Bonventre - Kidney international, 2012 - Elsevier",
+                "authors": [
+                    {
+                        "name": "T Ichimura",
+                        "link": "https://scholar.google.com/citations?user=61bF3CgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "61bF3CgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=61bF3CgAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "CR Brooks",
+                        "link": "https://scholar.google.com/citations?user=qaQvafEAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "qaQvafEAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qaQvafEAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "JV Bonventre",
+                        "link": "https://scholar.google.com/citations?user=ZLSx3pIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "ZLSx3pIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZLSx3pIAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "sciencedirect.com",
+                    "file_format": "HTML",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lRSLYNcQrbYJ",
+                "html_version": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
+                "cited_by": {
+                    "total": 121,
+                    "link": "https://scholar.google.com/scholar?cites=13163195803097568405&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "13163195803097568405",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13163195803097568405&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lRSLYNcQrbYJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlRSLYNcQrbYJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=13163195803097568405&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "13163195803097568405",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13163195803097568405&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 20,
-            "title": "Perception of intentions and mental states in autonomous virtual agents",
-            "result_id": "axWAWFF48JoJ",
-            "type": "Pdf",
-            "link": "https://escholarship.org/content/qt26s7519s/qt26s7519s.pdf",
-            "snippet": "Comprehension of goal-directed, intentional motion is an important but understudied visual function. To study it, we created a two-dimensional virtual environment populated by …",
+            "title": "Identifying Connectivity Distributions from Neural Dynamics Using Flows",
+            "result_id": "zhZ_j9d-Ue8J",
+            "link": "https://arxiv.org/abs/2603.26506",
+            "snippet": "Connectivity structure shapes neural computation, but inferring this structure from population recordings is degenerate: multiple connectivity structures can generate identical dynamics. …",
             "publication_info": {
-                "summary": "PC Pantelis, SA Cholewiak, P Ringstad… - Proceedings of the …, 2011 - escholarship.org",
+                "summary": "TD Kim, U Pereira-Obilinovic, Y Wang… - arXiv preprint arXiv …, 2026 - arxiv.org",
                 "authors": [
                     {
-                        "name": "PC Pantelis",
-                        "link": "https://scholar.google.com/citations?user=FoVvIK0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FoVvIK0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FoVvIK0AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "TD Kim",
+                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "FTWUPusAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "SA Cholewiak",
-                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4bahYMkAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "U Pereira-Obilinovic",
+                        "link": "https://scholar.google.com/citations?user=dpV8phYAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "dpV8phYAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dpV8phYAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "P Ringstad"
+                        "name": "Y Wang"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "escholarship.org",
+                    "title": "arxiv.org",
                     "file_format": "PDF",
-                    "link": "https://escholarship.org/content/qt26s7519s/qt26s7519s.pdf"
+                    "link": "https://arxiv.org/pdf/2603.26506"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=axWAWFF48JoJ",
-                "cited_by": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cites=11164555767023932779&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
-                    "cites_id": "11164555767023932779",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=11164555767023932779&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:axWAWFF48JoJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AaxWAWFF48JoJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=11164555767023932779&hl=en&num=20&as_sdt=0,18",
-                    "cluster_id": "11164555767023932779",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=11164555767023932779&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:axWAWFF48JoJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zhZ_j9d-Ue8J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:zhZ_j9d-Ue8J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AzhZ_j9d-Ue8J%3Ascholar.google.com%2F&start=0",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zhZ_j9d-Ue8J:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
             }
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://scholar.google.com/scholar?start=20&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+        "next": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
         "other_pages": {
-            "2": "https://scholar.google.com/scholar?start=20&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "3": "https://scholar.google.com/scholar?start=40&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "4": "https://scholar.google.com/scholar?start=60&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "5": "https://scholar.google.com/scholar?start=80&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "6": "https://scholar.google.com/scholar?start=100&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "7": "https://scholar.google.com/scholar?start=120&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "8": "https://scholar.google.com/scholar?start=140&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "9": "https://scholar.google.com/scholar?start=160&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
-            "10": "https://scholar.google.com/scholar?start=180&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            "2": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "3": "https://scholar.google.com/scholar?start=40&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "4": "https://scholar.google.com/scholar?start=60&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "5": "https://scholar.google.com/scholar?start=80&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "6": "https://scholar.google.com/scholar?start=100&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "7": "https://scholar.google.com/scholar?start=120&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "8": "https://scholar.google.com/scholar?start=140&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "9": "https://scholar.google.com/scholar?start=160&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+            "10": "https://scholar.google.com/scholar?start=180&q=Tim+Kim&hl=en&num=20&as_sdt=0,5"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
-        "next": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
-            "3": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=40",
-            "4": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=60",
-            "5": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=80",
-            "6": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=100",
-            "7": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=120",
-            "8": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=140",
-            "9": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=160",
-            "10": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=180"
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=40",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=60",
+            "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=80",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=100",
+            "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=120",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=140",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=160",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=180"
         }
     }
 }
