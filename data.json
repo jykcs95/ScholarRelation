@@ -1,0 +1,1116 @@
+{
+    "search_metadata": {
+        "id": "69e94a3bf5c2f83e7be1e17d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/YRKzZCtMICmeYzuBzuA7cQ/69e94a3bf5c2f83e7be1e17d.json",
+        "created_at": "2026-04-22 22:22:51 UTC",
+        "processed_at": "2026-04-22 22:22:51 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=Steven+A+Cholewiak&hl=en&start=0&num=21",
+        "raw_html_file": "https://serpapi.com/searches/YRKzZCtMICmeYzuBzuA7cQ/69e94a3bf5c2f83e7be1e17d.html",
+        "total_time_taken": 7.32
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "q": "Steven A Cholewiak",
+        "hl": "en",
+        "start": 0,
+        "num": "20"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 634,
+        "time_taken_displayed": 0.06,
+        "query_displayed": "Steven A Cholewiak"
+    },
+    "profiles": {
+        "title": "User profiles for Steven A Cholewiak",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Steven+A+Cholewiak&hl=en&num=20&oi=ao",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Steven+A+Cholewiak",
+        "authors": [
+            {
+                "name": "Steven A. Cholewiak, PhD",
+                "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=ao",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en",
+                "author_id": "4bahYMkAAAAJ",
+                "affiliations": "Applied Vision Scientist at Google LLC",
+                "email": "Verified email at google.com",
+                "cited_by": 735
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Chromablur: Rendering chromatic eye aberration improves accommodation and realism",
+            "result_id": "ZdKtUfdDpE8J",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3130800.3130815",
+            "snippet": "Computer-graphics engineers and vision scientists want to generate images that reproduce realistic depth-dependent blur. Current rendering algorithms take into account scene …",
+            "publication_info": {
+                "summary": "SA Cholewiak, GD Love, PP Srinivasan, R Ng… - ACM Transactions on …, 2017 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "GD Love",
+                        "link": "https://scholar.google.com/citations?user=3xJXtlwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "3xJXtlwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3xJXtlwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "PP Srinivasan",
+                        "link": "https://scholar.google.com/citations?user=aYyDsZ0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "aYyDsZ0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aYyDsZ0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "R Ng",
+                        "link": "https://scholar.google.com/citations?user=6H0mhLUAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "6H0mhLUAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6H0mhLUAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "acm.org",
+                    "file_format": "PDF",
+                    "link": "https://dl.acm.org/doi/pdf/10.1145/3130800.3130815"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ZdKtUfdDpE8J",
+                "cited_by": {
+                    "total": 91,
+                    "link": "https://scholar.google.com/scholar?cites=5738786554683183717&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "5738786554683183717",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=5738786554683183717&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ZdKtUfdDpE8J:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AZdKtUfdDpE8J%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=5738786554683183717&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "5738786554683183717",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=5738786554683183717&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "A frequency-domain analysis of haptic gratings",
+            "result_id": "MwL6-YApQfsJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/5210096/",
+            "snippet": "The detectability and discriminability of virtual haptic gratings were analyzed in the frequency domain. Detection (Exp. 1) and discrimination (Exp. 2) thresholds for virtual haptic gratings …",
+            "publication_info": {
+                "summary": "SA Cholewiak, K Kim, HZ Tan… - IEEE Transactions on …, 2009 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "K Kim"
+                    },
+                    {
+                        "name": "HZ Tan",
+                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OiVOAHMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "HZ Tan",
+                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OiVOAHMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MwL6-YApQfsJ",
+                "cited_by": {
+                    "total": 70,
+                    "link": "https://scholar.google.com/scholar?cites=18104797610932568627&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "18104797610932568627",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=18104797610932568627&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:MwL6-YApQfsJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AMwL6-YApQfsJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=18104797610932568627&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "18104797610932568627",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=18104797610932568627&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Creating correct blur and its effect on accommodation",
+            "result_id": "yaFMes1ZwnMJ",
+            "link": "https://jov.arvojournals.org/article.aspx?articleid=2701817",
+            "snippet": "Blur occurs naturally when the eye is focused at one distance and an object is presented at another distance. Computer-graphics engineers and vision scientists often wish to create …",
+            "publication_info": {
+                "summary": "SA Cholewiak, GD Love, MS Banks - Journal of Vision, 2018 - jov.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "GD Love",
+                        "link": "https://scholar.google.com/citations?user=3xJXtlwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "3xJXtlwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3xJXtlwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "MS Banks",
+                        "link": "https://scholar.google.com/citations?user=Smr99uEAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "Smr99uEAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Smr99uEAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "HZ Tan",
+                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OiVOAHMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "PDF",
+                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/937491/i1534-7362-18-9-1.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yaFMes1ZwnMJ",
+                "cited_by": {
+                    "total": 80,
+                    "link": "https://scholar.google.com/scholar?cites=8341328198898590153&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "8341328198898590153",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=8341328198898590153&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:yaFMes1ZwnMJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AyaFMes1ZwnMJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=8341328198898590153&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "8341328198898590153",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8341328198898590153&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yaFMes1ZwnMJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 4,
+            "title": "Perception of physical stability and center of mass of 3-D objects",
+            "result_id": "K8ZpoI6hZNoJ",
+            "link": "https://jov.arvojournals.org/article.aspx?articleID=2213254",
+            "snippet": "Humans can judge from vision alone whether an object is physically stable or not. Such judgments allow observers to predict the physical behavior of objects, and hence to guide their …",
+            "publication_info": {
+                "summary": "SA Cholewiak, RW Fleming, M Singh - Journal of vision, 2015 - jov.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "RW Fleming",
+                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "ruUKktgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "M Singh",
+                        "link": "https://scholar.google.com/citations?user=9XRvM88AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "9XRvM88AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9XRvM88AAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "PDF",
+                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/933690/i1534-7362-15-2-13.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=K8ZpoI6hZNoJ",
+                "cited_by": {
+                    "total": 39,
+                    "link": "https://scholar.google.com/scholar?cites=15736880631888070187&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "15736880631888070187",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=15736880631888070187&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:K8ZpoI6hZNoJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AK8ZpoI6hZNoJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cluster=15736880631888070187&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "15736880631888070187",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=15736880631888070187&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:K8ZpoI6hZNoJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 5,
+            "title": "Visual perception of the physical stability of asymmetric three-dimensional objects",
+            "result_id": "gtZUmnKH9rkJ",
+            "type": "Html",
+            "link": "https://tvst.arvojournals.org/article.aspx?articleid=2121388",
+            "snippet": "Abstract Abstract: Abstract Visual estimation of object stability is an ecologically important judgment that allows observers to predict the physical behavior of objects. A natural method …",
+            "publication_info": {
+                "summary": "SA Cholewiak, RW Fleming, M Singh - Journal of vision, 2013 - tvst.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "RW Fleming",
+                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "ruUKktgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "M Singh",
+                        "link": "https://scholar.google.com/citations?user=9XRvM88AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "9XRvM88AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9XRvM88AAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "HTML",
+                    "link": "https://tvst.arvojournals.org/article.aspx?articleid=2121388"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gtZUmnKH9rkJ",
+                "html_version": "https://tvst.arvojournals.org/article.aspx?articleid=2121388",
+                "cited_by": {
+                    "total": 38,
+                    "link": "https://scholar.google.com/scholar?cites=13400046667572762242&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "13400046667572762242",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=13400046667572762242&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:gtZUmnKH9rkJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AgtZUmnKH9rkJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cluster=13400046667572762242&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "13400046667572762242",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=13400046667572762242&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:gtZUmnKH9rkJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Lags and leads of accommodation in humans: Fact or fiction?",
+            "result_id": "kmOTFFPDlnwJ",
+            "link": "https://jov.arvojournals.org/article.aspx?articleid=2772431",
+            "snippet": "The focusing response of the human eye—accommodation—exhibits errors known as lags and leads. Lags occur when the stimulus is near and the eye appears to focus farther than …",
+            "publication_info": {
+                "summary": "V Labhishetty, SA Cholewiak, A Roorda… - Journal of …, 2021 - jov.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "V Labhishetty"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "A Roorda",
+                        "link": "https://scholar.google.com/citations?user=OTLc4PIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OTLc4PIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OTLc4PIAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "PDF",
+                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938520/i1534-7362-21-3-21_1616585514.8805.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=kmOTFFPDlnwJ",
+                "cited_by": {
+                    "total": 54,
+                    "link": "https://scholar.google.com/scholar?cites=8977577668804567954&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "8977577668804567954",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=8977577668804567954&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:kmOTFFPDlnwJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AkmOTFFPDlnwJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 15,
+                    "link": "https://scholar.google.com/scholar?cluster=8977577668804567954&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "8977577668804567954",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8977577668804567954&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:kmOTFFPDlnwJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 7,
+            "title": "A perceptual eyebox for near-eye displays",
+            "result_id": "x-s1UfL25hUJ",
+            "link": "https://opg.optica.org/abstract.cfm?uri=oe-28-25-38008",
+            "snippet": "In near-eye display systems that support three-dimensional (3D) augmented and virtual reality, a central factor in determining the user experience is the size of the eyebox. The eyebox …",
+            "publication_info": {
+                "summary": "SA Cholewiak, Z Başgöze, O Cakmakci… - Optics …, 2020 - opg.optica.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "Z Başgöze",
+                        "link": "https://scholar.google.com/citations?user=Ky6YeHQAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "Ky6YeHQAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ky6YeHQAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "O Cakmakci",
+                        "link": "https://scholar.google.com/citations?user=xZLjeAMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "xZLjeAMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xZLjeAMAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "optica.org",
+                    "file_format": "PDF",
+                    "link": "https://opg.optica.org/viewmedia.cfm?uri=oe-28-25-38008&seq=0"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=x-s1UfL25hUJ",
+                "cited_by": {
+                    "total": 47,
+                    "link": "https://scholar.google.com/scholar?cites=1578220240044944327&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "1578220240044944327",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1578220240044944327&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:x-s1UfL25hUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Ax-s1UfL25hUJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=1578220240044944327&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "1578220240044944327",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1578220240044944327&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Haptic identification of stiffness and force magnitude",
+            "result_id": "T_lFpGS-6oEJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/4479918/",
+            "snippet": "As haptics becomes an integral component of scientific data visualization systems, there is a growing need to study \"haptic glyphs\" (building blocks for displaying information through …",
+            "publication_info": {
+                "summary": "SA Cholewiak, HZ Tan, DS Ebert - 2008 Symposium on Haptic …, 2008 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "HZ Tan",
+                        "link": "https://scholar.google.com/citations?user=OiVOAHMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OiVOAHMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OiVOAHMAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "DS Ebert",
+                        "link": "https://scholar.google.com/citations?user=LB2Ji0sAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "LB2Ji0sAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LB2Ji0sAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "academia.edu",
+                    "file_format": "PDF",
+                    "link": "https://www.academia.edu/download/30848808/2008_Cholewiak.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T_lFpGS-6oEJ",
+                "cited_by": {
+                    "total": 63,
+                    "link": "https://scholar.google.com/scholar?cites=9361504114905053519&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "9361504114905053519",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=9361504114905053519&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:T_lFpGS-6oEJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AT_lFpGS-6oEJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cluster=9361504114905053519&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "9361504114905053519",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=9361504114905053519&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Contributions of foveal and non-foveal retina to the human eye's focusing response",
+            "result_id": "lof0Jv4PuBIJ",
+            "link": "https://jov.arvojournals.org/article.aspx?articleid=2753339",
+            "snippet": "The human eye changes focus—accommodates—to minimize blur in the retinal image. Previous work has shown that stimulation of nonfoveal retina can produce accommodative …",
+            "publication_info": {
+                "summary": "V Labhishetty, SA Cholewiak, MS Banks - Journal of Vision, 2019 - jov.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "V Labhishetty"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "MS Banks",
+                        "link": "https://scholar.google.com/citations?user=Smr99uEAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "Smr99uEAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Smr99uEAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "PDF",
+                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938222/i1534-7362-19-12-18.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lof0Jv4PuBIJ",
+                "cited_by": {
+                    "total": 31,
+                    "link": "https://scholar.google.com/scholar?cites=1348845672647133078&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "1348845672647133078",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1348845672647133078&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lof0Jv4PuBIJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Alof0Jv4PuBIJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=1348845672647133078&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "1348845672647133078",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1348845672647133078&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lof0Jv4PuBIJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 10,
+            "title": "Orientation fields predict human perception of 3D shape from shading",
+            "result_id": "YvSOuO_AYmYJ",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2503088122",
+            "snippet": "How the brain recovers the three-dimensional structure of surfaces and objects from 2D retinal images remains mysterious. Shading patterns provide one of the most powerful—yet least …",
+            "publication_info": {
+                "summary": "C Aubuchon, R Vergne, SA Cholewiak… - Proceedings of the …, 2025 - pnas.org",
+                "authors": [
+                    {
+                        "name": "C Aubuchon",
+                        "link": "https://scholar.google.com/citations?user=VR7YqS0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "VR7YqS0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VR7YqS0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "R Vergne"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "pnas.org",
+                    "file_format": "PDF",
+                    "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.2503088122"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:YvSOuO_AYmYJ:scholar.google.com/&hl=en&num=20&as_sdt=0,18&scillfp=5878878490013549953&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=YvSOuO_AYmYJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=7377671275412386914&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "7377671275412386914",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=7377671275412386914&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:YvSOuO_AYmYJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AYvSOuO_AYmYJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=7377671275412386914&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "7377671275412386914",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=7377671275412386914&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 11,
+            "title": "The visual benefits of correcting longitudinal and transverse chromatic aberration",
+            "result_id": "93BHr9V0NhAJ",
+            "link": "https://jov.arvojournals.org/article.aspx?articleid=2785331",
+            "snippet": "We describe a system—the Binocular Varichrome and Accommodation Measurement System—that can be used to measure and correct the eye’s longitudinal and transverse chromatic …",
+            "publication_info": {
+                "summary": "A Roorda, SA Cholewiak, S Bhargava… - Journal of …, 2023 - jov.arvojournals.org",
+                "authors": [
+                    {
+                        "name": "A Roorda",
+                        "link": "https://scholar.google.com/citations?user=OTLc4PIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OTLc4PIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OTLc4PIAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "S Bhargava",
+                        "link": "https://scholar.google.com/citations?user=E-vYTkgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "E-vYTkgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E-vYTkgAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arvojournals.org",
+                    "file_format": "PDF",
+                    "link": "https://jov.arvojournals.org/arvo/content_public/journal/jov/938622/i1534-7362-23-2-3_1675251374.23804.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=93BHr9V0NhAJ",
+                "cited_by": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cites=1168249614466773239&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "1168249614466773239",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=1168249614466773239&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:93BHr9V0NhAJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3A93BHr9V0NhAJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cluster=1168249614466773239&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "1168249614466773239",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=1168249614466773239&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:93BHr9V0NhAJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 12,
+            "title": "Inferring the intentional states of autonomous virtual agents",
+            "result_id": "lf3M0c0mW7sJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0010027713002291",
+            "snippet": "Inferring the mental states of other agents, including their goals and intentions, is a central problem in cognition. A critical aspect of this problem is that one cannot observe mental states …",
+            "publication_info": {
+                "summary": "PC Pantelis, CL Baker, SA Cholewiak, K Sanik… - Cognition, 2014 - Elsevier",
+                "authors": [
+                    {
+                        "name": "PC Pantelis",
+                        "link": "https://scholar.google.com/citations?user=FoVvIK0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "FoVvIK0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FoVvIK0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "CL Baker",
+                        "link": "https://scholar.google.com/citations?user=bTdT7hAAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "bTdT7hAAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bTdT7hAAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "K Sanik"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lf3M0c0mW7sJ",
+                "cited_by": {
+                    "total": 47,
+                    "link": "https://scholar.google.com/scholar?cites=13500426973403217301&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "13500426973403217301",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=13500426973403217301&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lf3M0c0mW7sJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Alf3M0c0mW7sJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=13500426973403217301&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "13500426973403217301",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=13500426973403217301&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 13,
+            "title": "The tipping point: Visual estimation of the physical stability of three-dimensional objects",
+            "result_id": "fFpcFAkSMJgJ",
+            "type": "Book",
+            "link": "https://search.proquest.com/openview/451b700d30040d557b74d020568ddc47/1?pq-origsite=gscholar&cbl=18750",
+            "snippet": "Vision research generally focuses on the currently visible surface properties of objects, such as color, texture, luminance, orientation, and shape. In addition, however, observers can …",
+            "publication_info": {
+                "summary": "SA Cholewiak - 2012 - search.proquest.com",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "rutgers.edu",
+                    "file_format": "PDF",
+                    "link": "https://rucore.libraries.rutgers.edu/rutgers-lib/38730/PDF/1/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fFpcFAkSMJgJ",
+                "cited_by": {
+                    "total": 1,
+                    "link": "https://scholar.google.com/scholar?cites=10966284922852760188&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "10966284922852760188",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=10966284922852760188&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:fFpcFAkSMJgJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AfFpcFAkSMJgJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=10966284922852760188&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "10966284922852760188",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=10966284922852760188&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 14,
+            "title": "Perception of the physical stability of asymmetrical three-dimensional objects",
+            "result_id": "j3sloY7vQOUJ",
+            "type": "Pdf",
+            "link": "https://pdfs.semanticscholar.org/c4f6/3f2a2f31b0fe46fdf98483323d4a47ab1f77.pdf",
+            "snippet": "Visual estimation of object stability is an ecologically important judgment that allows observers to predict the physical behavior of objects. A natural method that has been used in …",
+            "publication_info": {
+                "summary": "SA Cholewiak, RW Fleming… - Journal of Vision …, 2012 - pdfs.semanticscholar.org",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "RW Fleming",
+                        "link": "https://scholar.google.com/citations?user=ruUKktgAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "ruUKktgAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ruUKktgAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "semanticscholar.org",
+                    "file_format": "PDF",
+                    "link": "https://pdfs.semanticscholar.org/c4f6/3f2a2f31b0fe46fdf98483323d4a47ab1f77.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=j3sloY7vQOUJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=16519466829062962063&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "16519466829062962063",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=16519466829062962063&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:j3sloY7vQOUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3Aj3sloY7vQOUJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=16519466829062962063&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "16519466829062962063",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=16519466829062962063&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:j3sloY7vQOUJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        },
+        {
+            "position": 15,
+            "title": "Perceptual estimation of variance in orientation and its dependence on sample size",
+            "result_id": "7VuQSoMStnUJ",
+            "type": "Book",
+            "link": "https://search.proquest.com/openview/989625a39b30653d439c38c6946a2d37/1?pq-origsite=gscholar&cbl=18750",
+            "snippet": "… Cholewiak … Abstract of the Thesis Perceptual estimation of variance in orientation and its dependence on sample size By Steven A. Cholewiak …",
+            "publication_info": {
+                "summary": "SA Cholewiak - 2010 - search.proquest.com",
+                "authors": [
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "rutgers.edu",
+                    "file_format": "PDF",
+                    "link": "https://rucore.libraries.rutgers.edu/rutgers-lib/27431/PDF/1/play/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7VuQSoMStnUJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:7VuQSoMStnUJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3A7VuQSoMStnUJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=8481987303299898349&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "8481987303299898349",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=8481987303299898349&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 16,
+            "title": "Varifocal virtuality: a novel optical layout for near-eye display",
+            "result_id": "CNjM3h5lm_sJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3084822.3084829",
+            "snippet": "Augmented reality (AR) has recently gained momentum in the form of a variety of available optical see-through near-eye displays (NEDs) such as the Meta 2and the Microsoft Hololens. …",
+            "publication_info": {
+                "summary": "…, A Patney, P Shirley, D Luebke, SA Cholewiak… - ACM SIGGRAPH 2017 …, 2017 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "A Patney",
+                        "link": "https://scholar.google.com/citations?user=RbUgwbwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "RbUgwbwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RbUgwbwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "P Shirley"
+                    },
+                    {
+                        "name": "D Luebke",
+                        "link": "https://scholar.google.com/citations?user=AE7Xvl0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "AE7Xvl0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AE7Xvl0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "acm.org",
+                    "file_format": "PDF",
+                    "link": "https://dl.acm.org/doi/pdf/10.1145/3084822.3084829"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=CNjM3h5lm_sJ",
+                "cited_by": {
+                    "total": 16,
+                    "link": "https://scholar.google.com/scholar?cites=18130195908171454472&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "18130195908171454472",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=18130195908171454472&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:CNjM3h5lm_sJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3ACNjM3h5lm_sJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=18130195908171454472&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "18130195908171454472",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=18130195908171454472&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 17,
+            "title": "Discrimination of real and virtual surfaces with sinusoidal and triangular gratings using the fingertip and stylus",
+            "result_id": "T09lSfmpkucJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/6216374/",
+            "snippet": "Two-interval two-alternative forced-choice discrimination experiments were conducted separately for sinusoidal and triangular textured surface gratings from which amplitude (ie, height…",
+            "publication_info": {
+                "summary": "MB Kocsis, SA Cholewiak, RM Traylor… - IEEE transactions on …, 2012 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "MB Kocsis"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "RM Traylor"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T09lSfmpkucJ",
+                "cited_by": {
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cites=16686586457504436047&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "16686586457504436047",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=16686586457504436047&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:T09lSfmpkucJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AT09lSfmpkucJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=16686586457504436047&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "16686586457504436047",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=16686586457504436047&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 18,
+            "title": "Vibrotactile localization on the arm: Effects of place, space, and age",
+            "result_id": "dJkWzIF_DIQJ",
+            "link": "https://link.springer.com/article/10.3758/BF03194834",
+            "snippet": "… Cesaro, Heather Stamberger, and Steven Cholewiak for their assistance in collecting and … Correspondence concerning this article should be sent to RW Cholewiak or AA Collins, …",
+            "publication_info": {
+                "summary": "RW Cholewiak, AA Collins - Perception & psychophysics, 2003 - Springer",
+                "authors": [
+                    {
+                        "name": "RW Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=LgU3FXIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "LgU3FXIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LgU3FXIAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "AA Collins"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "springer.com",
+                    "file_format": "PDF",
+                    "link": "https://link.springer.com/content/pdf/10.3758/BF03194834.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=dJkWzIF_DIQJ",
+                "cited_by": {
+                    "total": 462,
+                    "link": "https://scholar.google.com/scholar?cites=9515120308178557300&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "9515120308178557300",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=9515120308178557300&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:dJkWzIF_DIQJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AdJkWzIF_DIQJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=9515120308178557300&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "9515120308178557300",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=9515120308178557300&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 19,
+            "title": "Agency and rationality: Adopting the intentional stance toward evolved virtual agents.",
+            "result_id": "LiBwGpoQTFcJ",
+            "link": "https://psycnet.apa.org/fulltext/2015-45625-001.html",
+            "snippet": "The interpretation of other agents as intentional actors equipped with mental states has been connected to the attribution of rationality to their behavior. But a workable definition of “…",
+            "publication_info": {
+                "summary": "…, T Gerstner, K Sanik, A Weinstein, SA Cholewiak… - Decision, 2016 - psycnet.apa.org",
+                "authors": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "T Gerstner"
+                    },
+                    {
+                        "name": "K Sanik"
+                    },
+                    {
+                        "name": "A Weinstein",
+                        "link": "https://scholar.google.com/citations?user=MnUboHYAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "MnUboHYAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MnUboHYAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "apa.org",
+                    "file_format": "PDF",
+                    "link": "https://psycnet.apa.org/manuscript/2015-45625-001.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LiBwGpoQTFcJ",
+                "cited_by": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cites=6290421033584304174&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "6290421033584304174",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=6290421033584304174&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:LiBwGpoQTFcJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3ALiBwGpoQTFcJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=6290421033584304174&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "6290421033584304174",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=6290421033584304174&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 20,
+            "title": "Perception of intentions and mental states in autonomous virtual agents",
+            "result_id": "axWAWFF48JoJ",
+            "type": "Pdf",
+            "link": "https://escholarship.org/content/qt26s7519s/qt26s7519s.pdf",
+            "snippet": "Comprehension of goal-directed, intentional motion is an important but understudied visual function. To study it, we created a two-dimensional virtual environment populated by …",
+            "publication_info": {
+                "summary": "PC Pantelis, SA Cholewiak, P Ringstad… - Proceedings of the …, 2011 - escholarship.org",
+                "authors": [
+                    {
+                        "name": "PC Pantelis",
+                        "link": "https://scholar.google.com/citations?user=FoVvIK0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "FoVvIK0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FoVvIK0AAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SA Cholewiak",
+                        "link": "https://scholar.google.com/citations?user=4bahYMkAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "4bahYMkAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4bahYMkAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "P Ringstad"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "escholarship.org",
+                    "file_format": "PDF",
+                    "link": "https://escholarship.org/content/qt26s7519s/qt26s7519s.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=axWAWFF48JoJ",
+                "cited_by": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cites=11164555767023932779&as_sdt=4000005&sciodt=0,18&hl=en&num=20",
+                    "cites_id": "11164555767023932779",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=11164555767023932779&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:axWAWFF48JoJ:scholar.google.com/&scioq=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=related%3AaxWAWFF48JoJ%3Ascholar.google.com%2F&start=0",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=11164555767023932779&hl=en&num=20&as_sdt=0,18",
+                    "cluster_id": "11164555767023932779",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=11164555767023932779&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:axWAWFF48JoJ:scholar.google.com/+Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+            }
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://scholar.google.com/scholar?start=20&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+        "other_pages": {
+            "2": "https://scholar.google.com/scholar?start=20&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "3": "https://scholar.google.com/scholar?start=40&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "4": "https://scholar.google.com/scholar?start=60&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "5": "https://scholar.google.com/scholar?start=80&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "6": "https://scholar.google.com/scholar?start=100&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "7": "https://scholar.google.com/scholar?start=120&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "8": "https://scholar.google.com/scholar?start=140&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "9": "https://scholar.google.com/scholar?start=160&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18",
+            "10": "https://scholar.google.com/scholar?start=180&q=Steven+A+Cholewiak&hl=en&num=20&as_sdt=0,18"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=20",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=40",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=60",
+            "5": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=80",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=100",
+            "7": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=120",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=140",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=160",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&num=20&q=Steven+A+Cholewiak&start=180"
+        }
+    }
+}
