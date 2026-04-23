@@ -2,6 +2,7 @@ from pyorcid import OrcidAuthentication, OrcidSearch, OrcidScrapper
 import orcid
 from dotenv import load_dotenv
 from dataclasses import dataclass   
+from collections import defaultdict
 import os
 import json
 
@@ -36,24 +37,39 @@ def extract_put_codes(works_data: list) -> list:
 
 #parse a full name into first name, middle name, and last name
 def parse_name(full_name):
-    words = full_name.strip().split()
-    if len(words) >= 3:
-        first_name = words[0]
-        last_name = words[-1]
-        middle_name = " ".join(words[1:-1])
+    full_name = full_name.strip()
+
+    #Checks if the data stored has the last name, first name format
+    if "," in full_name:
+        # Assume format "Last Name, First Name"
+        parts = full_name.split(",", 1)
+        last_name = parts[0].strip()
+        first_name = parts[1].strip()
+        middle_name = ""
         return {
             "first_name": first_name,
             "middle_name": middle_name,
-            "last_name": last_name,
-            "full_name": full_name
+            "last_name": last_name
         }
     else:
-        return {
-            "first_name": words[0] if len(words) >= 1 else "",
-            "middle_name": "",
-            "last_name": words[-1] if len(words) >= 2 else "",
-            "full_name": full_name
-        }
+        words = full_name.split()
+        #Assuming the first word is the first name, the last word is the last name, and anything in between is the middle name
+        if len(words) >= 3:
+            first_name = words[0]
+            last_name = words[-1]
+            middle_name = " ".join(words[1:-1])
+            return {
+                "first_name": first_name,
+                "middle_name": middle_name,
+                "last_name": last_name
+            }
+        #If there are only two words, we can assume that there is no middle name
+        else:
+            return {
+                "first_name": words[0] if len(words) >= 1 else "",
+                "middle_name": "",
+                "last_name": words[-1] if len(words) >= 2 else ""
+            }
 
 #count how many times each contributor name appears in the works data
 def get_contributors(data):
@@ -78,11 +94,38 @@ def get_contributors(data):
                 )
             contributor_counts[key].count += 1
 
+    # Merge all similar contributors for each last name
+    contributors_by_last = defaultdict(list)
+    for key, author in contributor_counts.items():
+        contributors_by_last[key[1]].append((key[0], key, author))
+    
+    keys_to_remove = []
+    for last, entries in contributors_by_last.items():
+        if len(entries) > 1:
+            # Sort by quality: full names first (no "."), then by length of first_name descending
+            def sort_key(x):
+                first = x[0]
+                if "." not in first:
+                    return (0, -len(first))  # full names prioritized, longer first names better
+                else:
+                    return (1, -len(first))  # initials second, longer initials better
+            entries.sort(key=sort_key)
+            
+            # Get the best candidate for author's name and add all the count to it
+            best_first, best_key, best_author = entries[0]
+            for first, key, author in entries[1:]:
+                best_author.count += author.count
+                keys_to_remove.append(key)
+    
+    for key in keys_to_remove:
+        del contributor_counts[key]
+
     #sort the contributors by count in descending order
     contributor_counts = dict(sorted(contributor_counts.items(), key=lambda item: item[1].count, reverse=True))
     return contributor_counts
 
-def apiCall(query)-> None: 
+# Calling the Orcid API to figure out user's orcid ID which will allow us to search and store individuals work detailed data 
+def apiCall(last_name, first_name, affiliation, id = None)-> None: 
     #load environment variables from .env file
     load_dotenv()
     
@@ -97,10 +140,20 @@ def apiCall(query)-> None:
     #create a public access token using the authentication object
     access_token = auth.get_public_access_token()
 
+    #Prompt the search query based on available data
+    match (bool(id), bool(affiliation)):
+        case (True, _):
+            search_query = f"orcid:{id}"
+        case (False, True):
+            search_query = f"affiliation-org-name:{affiliation} AND family-name:{last_name} AND given-names:{first_name}"
+        case (False, False):
+            search_query = f"family-name:{last_name} AND given-names:{first_name}"
 
     #get the first result of the search query to get the ORCID ID of the author
-    result = OrcidSearch(access_token).search(query).get("expanded-result", [])[0]
-    orcid_id = result["orcid-id"]
+    result = OrcidSearch(access_token).search(search_query).get("expanded-result", [])
+    orcid_id = None
+    if result:
+        orcid_id = result[0]["orcid-id"]
 
     #use the ORCID ID to get the works data of the author using the scrapper class
     scrapper = OrcidScrapper(orcid_id = orcid_id)
@@ -120,11 +173,20 @@ def apiCall(query)-> None:
 
 
 if __name__ == "__main__":
-    #Ask the user for a scholar's name
-    query = input("Enter your search query: ").strip()
+    #Ask the user to search either by ORCID ID or by name and affiliation
+    id = input("Enter ORCID ID (or press Enter to search by name and affiliation): ").strip()
+
+    if id:
+        first_name = ""
+        last_name = ""
+        affiliation = ""
+    else:
+        first_name = input("Enter first name: ").strip()
+        last_name = input("Enter last name: ").strip()
+        affiliation = input("Enter affiliation: ").strip()
 
     #Make the API call to get the data and store it in a json file
-    apiCall(query)
+    apiCall(last_name, first_name, affiliation, id)
 
     #load the data from the json file
     works_data = loadData()
@@ -138,8 +200,3 @@ if __name__ == "__main__":
             print(f"{author.first_name} {author.middle_name} {author.last_name}: {author.count} contributions")
         else:
             print(f"{author.first_name} {author.last_name}: {author.count} contributions")
-
-    #print the authors by count of appearances in the data.json file
-    #print("\nAuthors by Count of Appearances:")
-    #for author in authors:
-        # print(f"{author.name}: {author.count} appearances, Author ID: {author.author_id}")
