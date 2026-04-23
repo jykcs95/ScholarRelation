@@ -1,2 +1,3 @@
 pip install python-dotenv
-pip install serpapi
+pip install orcid
+pip install pyorcid
