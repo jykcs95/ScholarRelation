@@ -23,6 +23,7 @@ if __name__ == "__main__":
     contributor = parser.getContributors(works_data)
 
     print("\nContributors and their counts:")
+    #printing all the contributor's name with their count number in order.
     for (first_name, last_name), author in contributor.items():
         if author.middle_name:
             print(f"{author.first_name} {author.middle_name} {author.last_name}: {author.count} contributions")
