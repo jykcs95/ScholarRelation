@@ -1,8 +1,14 @@
 import serpapi
 from dotenv import load_dotenv
+from dataclasses import dataclass   
 import os
 import json
 
+@dataclass
+class Author:
+    name: str
+    author_id: str
+    count: int
 
 #store json data from the api call
 def storeData(data):
@@ -29,10 +35,10 @@ def apiCall(query):
     storeData(results.as_dict())
 
 #use author's name as a key while author's id and count is the value in a dictionary
-def get_author_id_map(data) -> dict:
-    author_id_map = {}
+def get_authors(data):
+    authors_dict = {}
     
-    #store list of dictionaries of authors in the data, didn't want nested for loops
+    #store list of dictionaries of authors in the data, didn't want nested for loops, does end up using extra space
     all_authors = []
     for result in data.get("organic_results", []):
         all_authors.extend(result.get("publication_info", {}).get("authors", []))
@@ -42,13 +48,17 @@ def get_author_id_map(data) -> dict:
         name = author.get("name")
         author_id = author.get("author_id")
         #if they do not have author's id, because they have not created public profile then we will ignore them
-        if name and author_id:
-            if name in author_id_map:
-                author_id_map[name]["count"] += 1
-                author_id_map[name]["author_id"] = author_id
+        if name:
+            if name in authors_dict:
+                authors_dict[name].count += 1
+                if author_id:
+                    authors_dict[name].author_id = author_id
             else:
-                author_id_map[name] = {"author_id": author_id, "count": 1}
-    return author_id_map
+                authors_dict[name] = Author(name=name, author_id=author_id, count=1)
+    
+    authors_list = list(authors_dict.values())
+    authors_list.sort(key=lambda a: a.count, reverse=True)
+    return authors_list
 
 if __name__ == "__main__":
     query = input("Enter your search query: ").strip()
@@ -56,12 +66,11 @@ if __name__ == "__main__":
     apiCall(query)
 
     data = loadData()
-    author_id_map = get_author_id_map(data)
-        
-    #sort the author_id_map dictionary by count in descending order
-    sorted_author_id_map = dict(sorted(author_id_map.items(), key=lambda item: item[1]["count"], reverse=True))
+
+    #returns a list of Author objects
+    authors = get_authors(data)
 
     #print the authors by count of appearances in the data.json file
     print("\nAuthors by Count of Appearances:")
-    for i, (author_name, info) in enumerate(sorted_author_id_map.items()):
-        print(f"{author_name}: {info['count']} appearances, Author ID: {info['author_id']}")    
+    for author in authors:
+        print(f"{author.name}: {author.count} appearances, Author ID: {author.author_id}")

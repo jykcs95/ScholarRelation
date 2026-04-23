@@ -1,1051 +1,976 @@
 {
     "search_metadata": {
-        "id": "69e95dc4cc56d3a253fe5237",
+        "id": "69e974b6eb2bd1fe7a8a6496",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.json",
-        "created_at": "2026-04-22 23:46:12 UTC",
-        "processed_at": "2026-04-22 23:46:12 UTC",
-        "google_scholar_url": "https://scholar.google.com/scholar?q=Tim+Kim&hl=en&start=0&num=21",
-        "raw_html_file": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.html",
-        "total_time_taken": 6.17
+        "json_endpoint": "https://serpapi.com/searches/1oliLgUszsE0yo5c6og_DA/69e974b6eb2bd1fe7a8a6496.json",
+        "created_at": "2026-04-23 01:24:06 UTC",
+        "processed_at": "2026-04-23 01:24:06 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=JYT+Kim&hl=en&start=0&num=21",
+        "raw_html_file": "https://serpapi.com/searches/1oliLgUszsE0yo5c6og_DA/69e974b6eb2bd1fe7a8a6496.html",
+        "total_time_taken": 3.44
     },
     "search_parameters": {
         "engine": "google_scholar",
-        "q": "Tim Kim",
+        "q": "JYT Kim",
         "hl": "en",
         "start": 0,
         "num": "20"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "total_results": 2730000,
+        "total_results": 5680,
         "time_taken_displayed": 0.14,
-        "query_displayed": "Tim Kim"
+        "query_displayed": "JYT Kim"
     },
     "profiles": {
-        "title": "User profiles for Tim Kim",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Tim+Kim&hl=en&num=20&oi=ao",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Tim+Kim",
+        "title": "User profiles for JYT Kim",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=JYT+Kim&hl=en&num=20&oi=ao",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=JYT+Kim",
         "authors": [
             {
-                "name": "Timothy Doyeon Kim",
-                "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=ao",
-                "serpapi_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en",
-                "author_id": "FTWUPusAAAAJ",
-                "affiliations": "Allen Institute & University of Washington",
-                "email": "Verified email at alleninstitute.org",
-                "cited_by": 201
+                "name": "Timothy Jungyoon Kim",
+                "link": "https://scholar.google.com/citations?user=DMY7w0QAAAAJ&hl=en&num=20&oi=ao",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=DMY7w0QAAAAJ&engine=google_scholar_author&hl=en",
+                "author_id": "DMY7w0QAAAAJ",
+                "affiliations": "Argonne National Laboratory",
+                "email": "Verified email at anl.gov",
+                "cited_by": 4574
             }
         ]
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "An abundant dysfunctional apolipoprotein A1 in human atheroma",
-            "result_id": "HFINSxMj5XsJ",
-            "link": "https://www.nature.com/articles/nm.3459",
-            "snippet": "Recent studies have indicated that high-density lipoproteins (HDLs) and their major structural protein, apolipoprotein A1 (apoA1), recovered from human atheroma are dysfunctional …",
+            "title": "Different distributions of multi-carbon products in CO2 and CO electroreduction under practical reaction conditions",
+            "result_id": "SB4uRlQ9thoJ",
+            "link": "https://www.nature.com/articles/s41929-023-01082-4",
+            "snippet": "Product selectivity differences between the electroreduction of CO 2 and CO under practical current densities are a widely encountered phenomenon that is rarely emphasized or …",
             "publication_info": {
-                "summary": "…, BS Levison, D Schmitt, L Li, Y Wu, J Buffa, T Kim… - Nature medicine, 2014 - nature.com",
+                "summary": "JYT Kim, C Sellers, S Hao, TP Senftle, H Wang - Nature Catalysis, 2023 - nature.com",
                 "authors": [
                     {
-                        "name": ""
+                        "name": "JYT Kim",
+                        "link": "https://scholar.google.com/citations?user=DMY7w0QAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "DMY7w0QAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DMY7w0QAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "BS Levison"
+                        "name": "C Sellers",
+                        "link": "https://scholar.google.com/citations?user=1Zn0tacAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "1Zn0tacAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1Zn0tacAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "D Schmitt"
+                        "name": "S Hao",
+                        "link": "https://scholar.google.com/citations?user=_9NHyj0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "_9NHyj0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_9NHyj0AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "L Li"
+                        "name": "TP Senftle",
+                        "link": "https://scholar.google.com/citations?user=HILrSrMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "HILrSrMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HILrSrMAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "Y Wu",
-                        "link": "https://scholar.google.com/citations?user=hOO6uyMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "hOO6uyMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hOO6uyMAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "J Buffa"
-                    },
-                    {
-                        "name": "T Kim"
+                        "name": "H Wang",
+                        "link": "https://scholar.google.com/citations?user=dC4j6AMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "dC4j6AMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dC4j6AMAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "nih.gov",
+                    "title": "nsf.gov",
                     "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3923163/pdf/nihms551736.pdf"
+                    "link": "https://par.nsf.gov/servlets/purl/10562911"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HFINSxMj5XsJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SB4uRlQ9thoJ",
                 "cited_by": {
-                    "total": 449,
-                    "link": "https://scholar.google.com/scholar?cites=8927580402102391324&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "8927580402102391324",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8927580402102391324&engine=google_scholar&hl=en&num=20"
+                    "total": 122,
+                    "link": "https://scholar.google.com/scholar?cites=1924793322911440456&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "1924793322911440456",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=1924793322911440456&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:HFINSxMj5XsJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHFINSxMj5XsJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:SB4uRlQ9thoJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3ASB4uRlQ9thoJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 23,
-                    "link": "https://scholar.google.com/scholar?cluster=8927580402102391324&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "8927580402102391324",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8927580402102391324&engine=google_scholar&hl=en&num=20"
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=1924793322911440456&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "1924793322911440456",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=1924793322911440456&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 2,
-            "title": "Important surgical considerations in the management of renal cell carcinoma (RCC) with inferior vena cava (IVC) tumour thrombus",
-            "result_id": "1zv39lDS0bMJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11174.x",
-            "snippet": "What's known on the subject? and What does the study add? Historically, the surgical management of renal tumours with intravascular tumour thrombus has been associated with high …",
+            "title": "Efficient conversion of low-concentration nitrate sources into ammonia on a Ru-dispersed Cu nanowire electrocatalyst",
+            "result_id": "Kw7AYrzO1NwJ",
+            "link": "https://www.nature.com/articles/s41565-022-01121-4",
+            "snippet": "Electrochemically converting nitrate ions, a widely distributed nitrogen source in industrial wastewater and polluted groundwater, into ammonia represents a sustainable route for both …",
             "publication_info": {
-                "summary": "SM Lawindy, T Kurian, T Kim, D Mangar… - BJU …, 2012 - Wiley Online Library",
+                "summary": "…, DJ Rivera, SV Lambeets, S Pecaut, JYT Kim… - Nature …, 2022 - nature.com",
                 "authors": [
                     {
-                        "name": "SM Lawindy"
+                        "name": ""
                     },
                     {
-                        "name": "T Kurian"
+                        "name": "DJ Rivera",
+                        "link": "https://scholar.google.com/citations?user=FYR5GLAAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "FYR5GLAAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FYR5GLAAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "T Kim"
+                        "name": "SV Lambeets",
+                        "link": "https://scholar.google.com/citations?user=xrtcwn8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "xrtcwn8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xrtcwn8AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "D Mangar",
-                        "link": "https://scholar.google.com/citations?user=5cpy61cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "5cpy61cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5cpy61cAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "S Pecaut",
+                        "link": "https://scholar.google.com/citations?user=RWNdwdwAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "RWNdwdwAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RWNdwdwAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "JYT Kim",
+                        "link": "https://scholar.google.com/citations?user=DMY7w0QAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "DMY7w0QAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DMY7w0QAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "academia.edu",
+                    "title": "osti.gov",
                     "file_format": "PDF",
-                    "link": "https://www.academia.edu/download/78356708/9-Renal_Cell_Carcinoma.pdf"
+                    "link": "https://www.osti.gov/servlets/purl/1883856"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1zv39lDS0bMJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Kw7AYrzO1NwJ",
                 "cited_by": {
-                    "total": 192,
-                    "link": "https://scholar.google.com/scholar?cites=12957368848104242135&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12957368848104242135",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12957368848104242135&engine=google_scholar&hl=en&num=20"
+                    "total": 1051,
+                    "link": "https://scholar.google.com/scholar?cites=15912570691912732203&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "15912570691912732203",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=15912570691912732203&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:1zv39lDS0bMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A1zv39lDS0bMJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Kw7AYrzO1NwJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AKw7AYrzO1NwJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 19,
-                    "link": "https://scholar.google.com/scholar?cluster=12957368848104242135&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12957368848104242135",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12957368848104242135&engine=google_scholar&hl=en&num=20"
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=15912570691912732203&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "15912570691912732203",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=15912570691912732203&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 3,
-            "title": "Machine learning in cardiac CT: basic concepts and contemporary data",
-            "result_id": "tQ28heBEdjkJ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1934592518300844",
-            "snippet": "Propelled by the synergy of the groundbreaking advancements in the ability to analyze high-dimensional datasets and the increasing availability of imaging and clinical data, machine …",
+            "title": "Recovering carbon losses in CO2 electrolysis using a solid electrolyte reactor",
+            "result_id": "HUyS95i08NoJ",
+            "link": "https://www.nature.com/articles/s41929-022-00763-w",
+            "snippet": "The practical implementation of electrochemical CO 2 reduction technology is greatly challenged by notable CO 2 crossover to the anode side, where the crossed-over CO 2 is mixed …",
             "publication_info": {
-                "summary": "G Singh, SJ Al'Aref, M Van Assen, TS Kim… - Journal of …, 2018 - Elsevier",
+                "summary": "JYT Kim, P Zhu, FY Chen, ZY Wu, DA Cullen… - Nature Catalysis, 2022 - nature.com",
                 "authors": [
                     {
-                        "name": "G Singh",
-                        "link": "https://scholar.google.com/citations?user=IKBgQ7cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "IKBgQ7cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IKBgQ7cAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "JYT Kim",
+                        "link": "https://scholar.google.com/citations?user=DMY7w0QAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "DMY7w0QAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DMY7w0QAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "SJ Al'Aref",
-                        "link": "https://scholar.google.com/citations?user=EleQiv8AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "EleQiv8AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EleQiv8AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "P Zhu",
+                        "link": "https://scholar.google.com/citations?user=AfFztsIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "AfFztsIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AfFztsIAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "M Van Assen",
-                        "link": "https://scholar.google.com/citations?user=MTFIqAgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "MTFIqAgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MTFIqAgAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "FY Chen",
+                        "link": "https://scholar.google.com/citations?user=jOxe6nUAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "jOxe6nUAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jOxe6nUAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "TS Kim"
+                        "name": "ZY Wu",
+                        "link": "https://scholar.google.com/citations?user=sIT2cFMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "sIT2cFMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sIT2cFMAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "DA Cullen",
+                        "link": "https://scholar.google.com/citations?user=rAgsL3kAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "rAgsL3kAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rAgsL3kAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
+            "resources": [
+                {
+                    "title": "osti.gov",
+                    "file_format": "PDF",
+                    "link": "https://www.osti.gov/servlets/purl/1875342"
+                }
+            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tQ28heBEdjkJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HUyS95i08NoJ",
                 "cited_by": {
-                    "total": 136,
-                    "link": "https://scholar.google.com/scholar?cites=4140572638520806837&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4140572638520806837",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4140572638520806837&engine=google_scholar&hl=en&num=20"
+                    "total": 263,
+                    "link": "https://scholar.google.com/scholar?cites=15776308063760436253&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "15776308063760436253",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=15776308063760436253&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:tQ28heBEdjkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AtQ28heBEdjkJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:HUyS95i08NoJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AHUyS95i08NoJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 5,
-                    "link": "https://scholar.google.com/scholar?cluster=4140572638520806837&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4140572638520806837",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4140572638520806837&engine=google_scholar&hl=en&num=20"
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=15776308063760436253&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "15776308063760436253",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=15776308063760436253&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 4,
-            "title": "A characterization of dendritic cells and their role in immunotherapy in glioblastoma: from preclinical studies to clinical trials",
-            "result_id": "AZ6lIyZ-akMJ",
-            "type": "Html",
-            "link": "https://www.mdpi.com/2072-6694/11/4/537",
-            "snippet": "Glioblastoma (GBM) is the most common and fatal primary central nervous system malignancy in adults with a median survival of less than 15 months. Surgery, radiation, and …",
+            "title": "Upgrading carbon monoxide to bioplastics via integrated electrochemical reduction and biosynthesis",
+            "result_id": "Uw3GnqEADwIJ",
+            "link": "https://www.nature.com/articles/s44160-024-00621-6",
+            "snippet": "It is challenging to obtain high-value hydrocarbons that are longer than C 3 via electrochemical CO 2 /CO reduction. Integrating electrochemical CO 2 /CO electrolysers with a …",
             "publication_info": {
-                "summary": "S Srivastava, C Jackson, T Kim, J Choi, M Lim - Cancers, 2019 - mdpi.com",
+                "summary": "TU Wi, Y Xie, ZH Levell, D Feng, JYT Kim, P Zhu… - Nature …, 2024 - nature.com",
                 "authors": [
                     {
-                        "name": "S Srivastava"
+                        "name": "TU Wi",
+                        "link": "https://scholar.google.com/citations?user=OVLJtC0AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "OVLJtC0AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OVLJtC0AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "C Jackson",
-                        "link": "https://scholar.google.com/citations?user=hVO81YwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "hVO81YwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hVO81YwAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "Y Xie",
+                        "link": "https://scholar.google.com/citations?user=AvC021QAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "AvC021QAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AvC021QAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "T Kim"
+                        "name": "ZH Levell"
                     },
                     {
-                        "name": "J Choi",
-                        "link": "https://scholar.google.com/citations?user=yY101J0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "yY101J0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yY101J0AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "D Feng",
+                        "link": "https://scholar.google.com/citations?user=aXQKCR8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "aXQKCR8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aXQKCR8AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "M Lim"
+                        "name": "JYT Kim",
+                        "link": "https://scholar.google.com/citations?user=DMY7w0QAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "DMY7w0QAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DMY7w0QAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "P Zhu",
+                        "link": "https://scholar.google.com/citations?user=AfFztsIAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "AfFztsIAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AfFztsIAAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "mdpi.com",
-                    "file_format": "HTML",
-                    "link": "https://www.mdpi.com/2072-6694/11/4/537"
+                    "title": "osti.gov",
+                    "file_format": "PDF",
+                    "link": "https://www.osti.gov/pages/servlets/purl/2502104"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AZ6lIyZ-akMJ",
-                "html_version": "https://www.mdpi.com/2072-6694/11/4/537",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Uw3GnqEADwIJ",
                 "cited_by": {
-                    "total": 142,
-                    "link": "https://scholar.google.com/scholar?cites=4857833850344414721&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4857833850344414721",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4857833850344414721&engine=google_scholar&hl=en&num=20"
+                    "total": 43,
+                    "link": "https://scholar.google.com/scholar?cites=148338006880030035&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "148338006880030035",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=148338006880030035&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:AZ6lIyZ-akMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AAZ6lIyZ-akMJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Uw3GnqEADwIJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AUw3GnqEADwIJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=4857833850344414721&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4857833850344414721",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4857833850344414721&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AZ6lIyZ-akMJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=148338006880030035&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "148338006880030035",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=148338006880030035&engine=google_scholar&hl=en&num=20"
+                }
             }
         },
         {
             "position": 5,
-            "title": "Inferring latent dynamics underlying neural population activity via neural differential equations",
-            "result_id": "84SqTDcMX8UJ",
-            "link": "http://proceedings.mlr.press/v139/kim21h.html",
-            "snippet": "An important problem in systems neuroscience is to identify the latent dynamics underlying neural population activity. Here we address this problem by introducing a low-dimensional …",
+            "title": "The solo piano music of selected contemporary Canadian women composers: Database, audio samples, and annotated bibliography",
+            "result_id": "ypt_s7MHTF4J",
+            "type": "Book",
+            "link": "https://search.proquest.com/openview/1f968128cb3e8e915c5a77ddf656af77/1?pq-origsite=gscholar&cbl=18750",
+            "snippet": "… I am indebted to my parents, Yeoung Tae and Hyang Sun Kim, whose endless support allowed me to pursue music. A heartfelt thanks goes to my sister and my brother-in-law who spent …",
             "publication_info": {
-                "summary": "TD Kim, TZ Luo, JW Pillow… - … conference on machine …, 2021 - proceedings.mlr.press",
+                "summary": "JYT Kim - 2011 - search.proquest.com",
                 "authors": [
                     {
-                        "name": "TD Kim",
-                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FTWUPusAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "TZ Luo",
-                        "link": "https://scholar.google.com/citations?user=w59lcBoAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "w59lcBoAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w59lcBoAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "JW Pillow",
-                        "link": "https://scholar.google.com/citations?user=-ElvJ9wAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "-ElvJ9wAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-ElvJ9wAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "JYT Kim"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "mlr.press",
-                    "file_format": "PDF",
-                    "link": "http://proceedings.mlr.press/v139/kim21h/kim21h.pdf"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=84SqTDcMX8UJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ypt_s7MHTF4J",
                 "cited_by": {
-                    "total": 85,
-                    "link": "https://scholar.google.com/scholar?cites=14222099579908293875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "14222099579908293875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14222099579908293875&engine=google_scholar&hl=en&num=20"
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cites=6794814406187260874&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "6794814406187260874",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=6794814406187260874&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:84SqTDcMX8UJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A84SqTDcMX8UJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=14222099579908293875&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "14222099579908293875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14222099579908293875&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:84SqTDcMX8UJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ypt_s7MHTF4J:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3Aypt_s7MHTF4J%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 6,
-            "title": "Predicting postoperative complications of inguinal lymph node dissection for penile cancer in an international multicentre cohort",
-            "result_id": "6hY5Ew_SGCUJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13009",
-            "snippet": "Objectives To assess the potential complications associated with inguinal lymph node dissection ( ILND ) across international tertiary care referral centres, and to determine the …",
+            "title": "Optimizing Carbon Dioxide Electrolyzers Towards Industrialization via Local Environment and Device Engineering",
+            "result_id": "gKNJ8AaaheoJ",
+            "link": "https://search.proquest.com/openview/cb0a2a9eb8a55f34b76ffd47447e8904/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "snippet": "Electrochemical CO 2 reduction reaction (CO 2 RR) holds promise for storing and utilizing renewable electricity, contributing to carbon neutralization efforts. However, significant …",
             "publication_info": {
-                "summary": "…, Y Zhu, C Protzel, JM Pow‐Sang, T Kim… - BJU …, 2015 - Wiley Online Library",
+                "summary": "JYT Kim - 2024 - search.proquest.com",
                 "authors": [
                     {
-                        "name": ""
-                    },
-                    {
-                        "name": "Y Zhu"
-                    },
-                    {
-                        "name": "C Protzel"
-                    },
-                    {
-                        "name": "JM Pow‐Sang"
-                    },
-                    {
-                        "name": "T Kim"
+                        "name": "JYT Kim"
                     }
                 ]
             },
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6hY5Ew_SGCUJ",
-                "cited_by": {
-                    "total": 104,
-                    "link": "https://scholar.google.com/scholar?cites=2673117341033240298&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "2673117341033240298",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2673117341033240298&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:6hY5Ew_SGCUJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A6hY5Ew_SGCUJ%3Ascholar.google.com%2F&start=0",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gKNJ8AaaheoJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:gKNJ8AaaheoJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AgKNJ8AaaheoJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=2673117341033240298&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "2673117341033240298",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2673117341033240298&engine=google_scholar&hl=en&num=20"
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=16899082531369493376&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "16899082531369493376",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=16899082531369493376&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 7,
-            "title": "Parasite resistance and genetic variation in the endangered Gila topminnow",
-            "result_id": "bqD1gtdE1UkJ",
-            "link": "https://www.cambridge.org/core/journals/animal-conservation-forum/article/parasite-resistance-and-genetic-variation-in-the-endangered-gila-topminnow/35FFC6CDC311F36F61B48C24BA585DFE",
-            "snippet": "In recent years, it has become apparent that introduced or novel pathogens or parasites may have a significant negative impact on endangered species. Here we examine …",
+            "title": "Enriched CNN-Transformer Feature Aggregation Networks for Super-Resolution–Supplementary Material–",
+            "result_id": "_-urPr-NHEAJ",
+            "type": "Pdf",
+            "link": "https://openaccess.thecvf.com/content/WACV2023/supplemental/Yoo_Enriched_CNN-Transformer_Feature_WACV_2023_supplemental.pdf",
+            "snippet": "In this supplementary material, we provide additional details, experimental settings, and results of our proposed method. First, we describe the details of the proposed Fusion Block and …",
             "publication_info": {
-                "summary": "PW Hedrick, TJ Kim, KM Parker - Animal Conservation Forum, 2001 - cambridge.org",
+                "summary": "JYT Kim, S Lee, SH Kim, H Lee, TH Kim - openaccess.thecvf.com",
                 "authors": [
                     {
-                        "name": "PW Hedrick"
+                        "name": "JYT Kim"
                     },
                     {
-                        "name": "TJ Kim"
+                        "name": "S Lee"
                     },
                     {
-                        "name": "KM Parker",
-                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "rPoMPlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bqD1gtdE1UkJ",
-                "cited_by": {
-                    "total": 159,
-                    "link": "https://scholar.google.com/scholar?cites=5320234227213901934&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "5320234227213901934",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5320234227213901934&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:bqD1gtdE1UkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AbqD1gtdE1UkJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 9,
-                    "link": "https://scholar.google.com/scholar?cluster=5320234227213901934&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "5320234227213901934",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5320234227213901934&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 8,
-            "title": "Implications for human papillomavirus in penile cancer",
-            "result_id": "c_2xacFZk1sJ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1078143913003207",
-            "snippet": "Human papillomavirus infection (HPV) has been implicated in penile cancer, and although the annual incidence is estimated to be 1,570 in the United States, there are areas of the …",
-            "publication_info": {
-                "summary": "A Flaherty, T Kim, A Giuliano, A Magliocco… - … Oncology: Seminars and …, 2014 - Elsevier",
-                "authors": [
-                    {
-                        "name": "A Flaherty"
+                        "name": "SH Kim"
                     },
                     {
-                        "name": "T Kim"
+                        "name": "H Lee"
                     },
                     {
-                        "name": "A Giuliano"
-                    },
-                    {
-                        "name": "A Magliocco",
-                        "link": "https://scholar.google.com/citations?user=f1oJ5gIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "f1oJ5gIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f1oJ5gIAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c_2xacFZk1sJ",
-                "cited_by": {
-                    "total": 83,
-                    "link": "https://scholar.google.com/scholar?cites=6598716566264741235&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "6598716566264741235",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6598716566264741235&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:c_2xacFZk1sJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ac_2xacFZk1sJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 6,
-                    "link": "https://scholar.google.com/scholar?cluster=6598716566264741235&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "6598716566264741235",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6598716566264741235&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 9,
-            "title": "Using percentage of sarcomatoid differentiation as a prognostic factor in renal cell carcinoma",
-            "result_id": "2j94M1MjLq0J",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1558767314002614",
-            "snippet": "Background The objective of this study was to determine if the percentage of sarcomatoid differentiation (%Sarc) in renal cell carcinoma (RCC) can be used for prognostic risk …",
-            "publication_info": {
-                "summary": "T Kim, K Zargar-Shoshtari, J Dhillon, HY Lin… - Clinical genitourinary …, 2015 - Elsevier",
-                "authors": [
-                    {
-                        "name": "T Kim"
-                    },
-                    {
-                        "name": "K Zargar-Shoshtari",
-                        "link": "https://scholar.google.com/citations?user=LCHRmLYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "LCHRmLYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LCHRmLYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "J Dhillon"
-                    },
-                    {
-                        "name": "HY Lin"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2j94M1MjLq0J",
-                "cited_by": {
-                    "total": 68,
-                    "link": "https://scholar.google.com/scholar?cites=12478950457742999514&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12478950457742999514",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12478950457742999514&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:2j94M1MjLq0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A2j94M1MjLq0J%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 8,
-                    "link": "https://scholar.google.com/scholar?cluster=12478950457742999514&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12478950457742999514",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12478950457742999514&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 10,
-            "title": "Preoperative metastatic status, level of thrombus and body mass index predict overall survival in patients undergoing nephrectomy and inferior vena cava …",
-            "result_id": "EQA9Y6gVwhgJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11155.x",
-            "snippet": "Study Type – Prognosis (case series) Level of Evidence 4 What's known on the subject? and What does the study add? Little is known about the prognostic impact of body mass index (…",
-            "publication_info": {
-                "summary": "PE Spiess, T Kurian, HY Lin, B Rawal, T Kim… - BJU …, 2012 - Wiley Online Library",
-                "authors": [
-                    {
-                        "name": "PE Spiess"
-                    },
-                    {
-                        "name": "T Kurian"
-                    },
-                    {
-                        "name": "HY Lin"
-                    },
-                    {
-                        "name": "B Rawal",
-                        "link": "https://scholar.google.com/citations?user=qzSRwmwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "qzSRwmwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qzSRwmwAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "T Kim"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EQA9Y6gVwhgJ",
-                "cited_by": {
-                    "total": 43,
-                    "link": "https://scholar.google.com/scholar?cites=1784012215355768849&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "1784012215355768849",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1784012215355768849&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:EQA9Y6gVwhgJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AEQA9Y6gVwhgJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 6,
-                    "link": "https://scholar.google.com/scholar?cluster=1784012215355768849&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "1784012215355768849",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1784012215355768849&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 11,
-            "title": "A polymorphism in TIM1 is associated with susceptibility to severe hepatitis A virus infection in humans",
-            "result_id": "BYviSc5qqgoJ",
-            "link": "https://www.jci.org/articles/view/44182",
-            "snippet": "… TIM-1 binds HAV more efficiently than the short form of TIM-1, and that NKT cells expressing the long form of TIM… in individuals with the long form of TIM-1. Importantly, our observation …",
-            "publication_info": {
-                "summary": "HY Kim, MB Eyheramonho, M Pichavant… - The Journal of clinical …, 2011 - jci.org",
-                "authors": [
-                    {
-                        "name": "HY Kim",
-                        "link": "https://scholar.google.com/citations?user=7mLJ_ZYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "7mLJ_ZYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7mLJ_ZYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "MB Eyheramonho"
-                    },
-                    {
-                        "name": "M Pichavant",
-                        "link": "https://scholar.google.com/citations?user=_TLW2hIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "_TLW2hIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_TLW2hIAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "TH Kim"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "jci.org",
+                    "title": "thecvf.com",
                     "file_format": "PDF",
-                    "link": "https://www.jci.org/articles/view/44182/files/pdf"
+                    "link": "https://openaccess.thecvf.com/content/WACV2023/supplemental/Yoo_Enriched_CNN-Transformer_Feature_WACV_2023_supplemental.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BYviSc5qqgoJ",
-                "cited_by": {
-                    "total": 129,
-                    "link": "https://scholar.google.com/scholar?cites=768544120655481605&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "768544120655481605",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=768544120655481605&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:BYviSc5qqgoJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ABYviSc5qqgoJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 18,
-                    "link": "https://scholar.google.com/scholar?cluster=768544120655481605&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "768544120655481605",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=768544120655481605&engine=google_scholar&hl=en&num=20"
-                }
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_-urPr-NHEAJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:_-urPr-NHEAJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3A_-urPr-NHEAJ%3Ascholar.google.com%2F&start=0",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:_-urPr-NHEAJ:scholar.google.com/+JYT+Kim&hl=en&num=20&as_sdt=0,3"
             }
         },
         {
-            "position": 12,
-            "title": "Genetic disparity between morphologically benign cysts contiguous to ovarian carcinomas and solitary cystadenomas",
-            "result_id": "M0zNZvaFkc0J",
-            "link": "https://academic.oup.com/jnci/article-abstract/87/15/1146/1091564",
-            "snippet": "Background: Ovarian carcinomas occasionally contain large, histologically benign cysts contiguous to the clearly malignant areas (cystadenocarcinomas). The question of whether such …",
+            "position": 8,
+            "title": "Electrochemical ammonia synthesis via nitrate reduction on Fe single atom catalyst. Nat. Commun. 12, 2870",
+            "result_id": "RaNKRI4zLnoJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "…, WF Benedict, HJ Xu, SX Hu, TM Kim… - JNCI: Journal of the …, 1995 - academic.oup.com",
+                "summary": "…, P Zhu, C Xia, Q Xiao, M Shakouri, FY Chen, JYT Kim… - 2021",
                 "authors": [
                     {
                         "name": ""
                     },
                     {
-                        "name": "WF Benedict"
+                        "name": "P Zhu"
                     },
                     {
-                        "name": "HJ Xu"
+                        "name": "C Xia"
                     },
                     {
-                        "name": "SX Hu"
+                        "name": "Q Xiao"
                     },
                     {
-                        "name": "TM Kim"
+                        "name": "M Shakouri"
+                    },
+                    {
+                        "name": "FY Chen"
+                    },
+                    {
+                        "name": "JYT Kim"
                     }
                 ]
             },
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M0zNZvaFkc0J",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=RaNKRI4zLnoJ",
                 "cited_by": {
-                    "total": 108,
-                    "link": "https://scholar.google.com/scholar?cites=14812767942731451443&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "14812767942731451443",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14812767942731451443&engine=google_scholar&hl=en&num=20"
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cites=8804031007680013125&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "8804031007680013125",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=8804031007680013125&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:M0zNZvaFkc0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AM0zNZvaFkc0J%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 9,
-                    "link": "https://scholar.google.com/scholar?cluster=14812767942731451443&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "14812767942731451443",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14812767942731451443&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:RaNKRI4zLnoJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3ARaNKRI4zLnoJ%3Ascholar.google.com%2F&start=0"
+            }
+        },
+        {
+            "position": 9,
+            "title": "Uses and gratifications of social media: A comparison of Facebook and Instagram",
+            "result_id": "_q_msBmDwewJ",
+            "type": "Citation",
+            "snippet": "",
+            "publication_info": {
+                "summary": "J Phua, SV Jin, JYT Kim - International Journal of Communication, 2017",
+                "authors": [
+                    {
+                        "name": "J Phua",
+                        "link": "https://scholar.google.com/citations?user=m_UYebMAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "m_UYebMAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=m_UYebMAAAAJ&engine=google_scholar_author&hl=en"
+                    },
+                    {
+                        "name": "SV Jin"
+                    },
+                    {
+                        "name": "JYT Kim"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=_q_msBmDwewJ",
+                "cited_by": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cites=17060061009821478910&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "17060061009821478910",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=17060061009821478910&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:_q_msBmDwewJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3A_q_msBmDwewJ%3Ascholar.google.com%2F&start=0"
+            }
+        },
+        {
+            "position": 10,
+            "title": "Electrochemical ammonia synthesis via nitrate reduction on Fe single atom catalyst, Nat. Commun. 12 (2021) 2870",
+            "result_id": "ovh6d1S22aAJ",
+            "type": "Citation",
+            "snippet": "",
+            "publication_info": {
+                "summary": "…, P Zhu, C Xia, Q Xiao, M Shakouri, FY Chen, JYT Kim…",
+                "authors": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "P Zhu"
+                    },
+                    {
+                        "name": "C Xia"
+                    },
+                    {
+                        "name": "Q Xiao"
+                    },
+                    {
+                        "name": "M Shakouri"
+                    },
+                    {
+                        "name": "FY Chen"
+                    },
+                    {
+                        "name": "JYT Kim"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ovh6d1S22aAJ",
+                "cited_by": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cites=11590495589912737954&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "11590495589912737954",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=11590495589912737954&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ovh6d1S22aAJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3Aovh6d1S22aAJ%3Ascholar.google.com%2F&start=0"
+            }
+        },
+        {
+            "position": 11,
+            "title": "Recovering carbon losses in CO2 electrolysis using a solid electrolyte reactor. Nat. Catal. 5 (4), 288–299 (2022)",
+            "result_id": "BPp9TpIKDLcJ",
+            "type": "Citation",
+            "snippet": "",
+            "publication_info": {
+                "summary": "JYT Kim, P Zhu, FY Chen, ZY Wu, DA Cullen",
+                "authors": [
+                    {
+                        "name": "JYT Kim"
+                    },
+                    {
+                        "name": "P Zhu"
+                    },
+                    {
+                        "name": "FY Chen"
+                    },
+                    {
+                        "name": "ZY Wu"
+                    },
+                    {
+                        "name": "DA Cullen"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BPp9TpIKDLcJ",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=13189929032159721988&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "13189929032159721988",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=13189929032159721988&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:BPp9TpIKDLcJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3ABPp9TpIKDLcJ%3Ascholar.google.com%2F&start=0"
+            }
+        },
+        {
+            "position": 12,
+            "title": "652 Zhu",
+            "result_id": "etsd9I9w_J8J",
+            "type": "Citation",
+            "snippet": "",
+            "publication_info": {
+                "summary": "…, S Gupta, DJ Rivera, SV Lambeets, S Pecaut, JYT Kim - P",
+                "authors": [
+                    {
+                        "name": ""
+                    },
+                    {
+                        "name": "S Gupta"
+                    },
+                    {
+                        "name": "DJ Rivera"
+                    },
+                    {
+                        "name": "SV Lambeets"
+                    },
+                    {
+                        "name": "S Pecaut"
+                    },
+                    {
+                        "name": "JYT Kim"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=etsd9I9w_J8J",
+                "cited_by": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=11528212909739858810&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "11528212909739858810",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=11528212909739858810&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:etsd9I9w_J8J:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3Aetsd9I9w_J8J%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 13,
-            "title": "Loss of heterozygosity on chromosome 13 is common only in the biologically more aggressive subtypes of ovarian epithelial tumors and is associated with normal …",
-            "result_id": "HGJE9SX4PloJ",
-            "link": "https://aacrjournals.org/cancerres/article-abstract/54/3/605/500964",
-            "snippet": "We examined the frequencies of loss of heterozygosity on chromosome 13 in 77 primary ovarian epithelial tumors subdivided into cystadenomas, tumors of low malignant potential, low …",
+            "title": "Nat Commun 2021, 12, 2870; c) L",
+            "result_id": "FZJnoCIOD3IJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "TM Kim, WF Benedict, HJ Xu, SX Hu, J Gosewehr… - Cancer …, 1994 - aacrjournals.org",
+                "summary": "…, P Zhu, C Xia, Q Xiao, M Shakouri, FY Chen, JYT Kim… - Ji, Z. Yuan, L. Chao, Z. Li …, 2021",
                 "authors": [
                     {
-                        "name": "TM Kim"
+                        "name": ""
                     },
                     {
-                        "name": "WF Benedict"
+                        "name": "P Zhu"
                     },
                     {
-                        "name": "HJ Xu"
+                        "name": "C Xia"
                     },
                     {
-                        "name": "SX Hu"
+                        "name": "Q Xiao"
                     },
                     {
-                        "name": "J Gosewehr"
+                        "name": "M Shakouri"
+                    },
+                    {
+                        "name": "FY Chen"
+                    },
+                    {
+                        "name": "JYT Kim"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "researchgate.net",
-                    "file_format": "PDF",
-                    "link": "https://www.researchgate.net/profile/Louis-Dubeau/publication/14893616_Loss_of_Heterozygosity_on_Chromosome_13_Is_Common_Only_in_the_Biologically_More_Aggressive_Subtypes_of_Ovarian_Epithelial_Tumors_and_Is_Associated_with_Normal_Retinoblastoma_Gene_Expression/links/0c9605182947bea57a000000/Loss-of-Heterozygosity-on-Chromosome-13-Is-Common-Only-in-the-Biologically-More-Aggressive-Subtypes-of-Ovarian-Epithelial-Tumors-and-Is-Associated-with-Normal-Retinoblastoma-Gene-Expression.pdf"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HGJE9SX4PloJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=FZJnoCIOD3IJ",
                 "cited_by": {
-                    "total": 106,
-                    "link": "https://scholar.google.com/scholar?cites=6502907753881952796&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "6502907753881952796",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6502907753881952796&engine=google_scholar&hl=en&num=20"
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=8218803386857263637&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "8218803386857263637",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=8218803386857263637&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:HGJE9SX4PloJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHGJE9SX4PloJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=6502907753881952796&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "6502907753881952796",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6502907753881952796&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:FZJnoCIOD3IJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AFZJnoCIOD3IJ%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 14,
-            "title": "Potential role of the inactivated X chromosome in ovarian epithelial tumor development",
-            "result_id": "hE4SQG4fWScJ",
-            "link": "https://academic.oup.com/jnci/article-abstract/88/8/510/915110",
-            "snippet": "Background: Ovarian epithelial tumors can be divided into subcategories often regarded as different stages of neoplastic transformation. Cystadenomas belong to the least aggressive …",
+            "title": "General synthesis of single-atom catalysts with high metal loading using graphene quantum dots. Nat. Chem. 13, 887–894",
+            "result_id": "vlramF2b6qsJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "PC Cheng, JA Gosewehr, TM Kim… - JNCI: Journal of the …, 1996 - academic.oup.com",
+                "summary": "…, Y Qiu, Y Xia, P Zhu, G King, X Zhang, Z Wu, JYT Kim… - 2021",
                 "authors": [
                     {
-                        "name": "PC Cheng"
+                        "name": ""
                     },
                     {
-                        "name": "JA Gosewehr"
+                        "name": "Y Qiu"
                     },
                     {
-                        "name": "TM Kim"
+                        "name": "Y Xia"
+                    },
+                    {
+                        "name": "P Zhu"
+                    },
+                    {
+                        "name": "G King"
+                    },
+                    {
+                        "name": "X Zhang"
+                    },
+                    {
+                        "name": "Z Wu"
+                    },
+                    {
+                        "name": "JYT Kim"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "oup.com",
-                    "file_format": "PDF",
-                    "link": "https://academic.oup.com/jnci/article-pdf/88/8/510/7811794/88-8-510.pdf"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hE4SQG4fWScJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vlramF2b6qsJ",
                 "cited_by": {
-                    "total": 94,
-                    "link": "https://scholar.google.com/scholar?cites=2835331998788243076&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "2835331998788243076",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2835331998788243076&engine=google_scholar&hl=en&num=20"
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cites=12387884551334681278&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "12387884551334681278",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=12387884551334681278&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:hE4SQG4fWScJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AhE4SQG4fWScJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=2835331998788243076&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "2835331998788243076",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2835331998788243076&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vlramF2b6qsJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AvlramF2b6qsJ%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 15,
-            "title": "Major histocompatibility complex differentiation in Sacramento River chinook salmon",
-            "result_id": "lYAwOTFu7EIJ",
-            "link": "https://academic.oup.com/genetics/article-abstract/151/3/1115/6034703",
-            "snippet": "The chinook salmon of the Sacramento River, California, have been reduced to a fraction of their former abundance because of human impact and use of the river system. Here we …",
+            "title": "Different distributions of multi-carbon products in CO2 and CO electroreduction under practical reaction conditions. Nat Catal. 2023; 6 (12): 1115–24",
+            "result_id": "psfWhqikjJQJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "TJ Kim, KM Parker, PW Hedrick - Genetics, 1999 - academic.oup.com",
+                "summary": "JYT Kim, C Sellers, S Hao, TP Senftle, H Wang",
                 "authors": [
                     {
-                        "name": "TJ Kim"
+                        "name": "JYT Kim"
                     },
                     {
-                        "name": "KM Parker",
-                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "rPoMPlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "C Sellers"
                     },
                     {
-                        "name": "PW Hedrick"
+                        "name": "S Hao"
+                    },
+                    {
+                        "name": "TP Senftle"
+                    },
+                    {
+                        "name": "H Wang"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "nih.gov",
-                    "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1460519/pdf/10049927.pdf"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lYAwOTFu7EIJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=psfWhqikjJQJ",
                 "cited_by": {
-                    "total": 80,
-                    "link": "https://scholar.google.com/scholar?cites=4822350458698891413&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4822350458698891413",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4822350458698891413&engine=google_scholar&hl=en&num=20"
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=10704111458076510118&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "10704111458076510118",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=10704111458076510118&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lYAwOTFu7EIJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlYAwOTFu7EIJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 12,
-                    "link": "https://scholar.google.com/scholar?cluster=4822350458698891413&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4822350458698891413",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4822350458698891413&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:psfWhqikjJQJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3ApsfWhqikjJQJ%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 16,
-            "title": "Identification of Tapr (an airway hyperreactivity regulatory locus) and the linked Tim gene family",
-            "result_id": "Q99kyUWOCpQJ",
-            "link": "https://www.nature.com/articles/ni739",
-            "snippet": "… rat KIM-1 and 42% identity with human HAVcr-1. The multiple sequence alignment with mouse TIM-1, rat KIM-… -1 showed the degree of homology between the TIM-1, KIM-1 and HAVcr-1 …",
+            "title": "This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. DE Perea, CL Muhich and H. Wang",
+            "result_id": "C0ou6CyfsXIJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "JJ McIntire, SE Umetsu, O Akbari, M Potter… - Nature …, 2001 - nature.com",
+                "summary": "…, S Gupta, DJ Rivera, SV Lambeets, S Pecaut, JYT Kim… - Nat. Nanotechnol, 2022",
                 "authors": [
                     {
-                        "name": "JJ McIntire"
+                        "name": ""
                     },
                     {
-                        "name": "SE Umetsu"
+                        "name": "S Gupta"
                     },
                     {
-                        "name": "O Akbari",
-                        "link": "https://scholar.google.com/citations?user=AU_LEn8AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "AU_LEn8AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AU_LEn8AAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "DJ Rivera"
                     },
                     {
-                        "name": "M Potter"
+                        "name": "SV Lambeets"
+                    },
+                    {
+                        "name": "S Pecaut"
+                    },
+                    {
+                        "name": "JYT Kim"
                     }
                 ]
             },
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q99kyUWOCpQJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=C0ou6CyfsXIJ",
                 "cited_by": {
-                    "total": 747,
-                    "link": "https://scholar.google.com/scholar?cites=10667495097763159875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "10667495097763159875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10667495097763159875&engine=google_scholar&hl=en&num=20"
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=8264561806424295947&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "8264561806424295947",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=8264561806424295947&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:Q99kyUWOCpQJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AQ99kyUWOCpQJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 11,
-                    "link": "https://scholar.google.com/scholar?cluster=10667495097763159875&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "10667495097763159875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10667495097763159875&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:C0ou6CyfsXIJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AC0ou6CyfsXIJ%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 17,
-            "title": "Combination therapy with anti-PD-1, anti-TIM-3, and focal radiation results in regression of murine gliomas",
-            "result_id": "e6sli7EzY6wJ",
-            "link": "https://aacrjournals.org/clincancerres/article-abstract/23/1/124/122710",
-            "snippet": "… We investigate TIM-3 expression in a glioma model and the antitumor efficacy of TIM-3 … We also demonstrate the presence of TIM-3 in human glioblastoma multiforme and provide …",
+            "title": "Patient-centered research through artificial intelligence to identify priorities in cancer care",
+            "result_id": "bRL2Mm2LhbkJ",
+            "link": "https://jamanetwork.com/journals/jamaoncology/article-abstract/2833152",
+            "snippet": "… Three breast oncologists (JLC, AWK, FR) and 3 dermatologists (KYS, JYT, EL) evaluated the meaningfulness and novelty of the AI-generated research topics using a 5-point Likert scale …",
             "publication_info": {
-                "summary": "JE Kim, MA Patel, A Mangraviti, ES Kim… - Clinical Cancer …, 2017 - aacrjournals.org",
+                "summary": "J Kim, ML Chen, SJ Rezaei, M Ramirez-Posada… - JAMA …, 2025 - jamanetwork.com",
                 "authors": [
                     {
-                        "name": "JE Kim",
-                        "link": "https://scholar.google.com/citations?user=lZ3Bc3cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "lZ3Bc3cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lZ3Bc3cAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "J Kim",
+                        "link": "https://scholar.google.com/citations?user=-LPyCv8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "-LPyCv8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-LPyCv8AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "MA Patel",
-                        "link": "https://scholar.google.com/citations?user=4x1fpHAAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4x1fpHAAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4x1fpHAAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "ML Chen"
                     },
                     {
-                        "name": "A Mangraviti"
+                        "name": "SJ Rezaei"
                     },
                     {
-                        "name": "ES Kim"
+                        "name": "M Ramirez-Posada",
+                        "link": "https://scholar.google.com/citations?user=5RmKBJ8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "5RmKBJ8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5RmKBJ8AAAAJ&engine=google_scholar_author&hl=en"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "nih.gov",
+                    "title": "jamanetwork.com",
                     "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5735836/pdf/nihms924376.pdf"
+                    "link": "https://jamanetwork.com/journals/jamaoncology/articlepdf/2833152/jamaoncology_kim_2025_oi_250011_1749251717.65472.pdf"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e6sli7EzY6wJ",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bRL2Mm2LhbkJ",
                 "cited_by": {
-                    "total": 511,
-                    "link": "https://scholar.google.com/scholar?cites=12421829034854689659&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12421829034854689659",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12421829034854689659&engine=google_scholar&hl=en&num=20"
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cites=13368244370041868909&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "13368244370041868909",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=13368244370041868909&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:e6sli7EzY6wJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ae6sli7EzY6wJ%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:bRL2Mm2LhbkJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AbRL2Mm2LhbkJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 12,
-                    "link": "https://scholar.google.com/scholar?cluster=12421829034854689659&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12421829034854689659",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12421829034854689659&engine=google_scholar&hl=en&num=20"
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=13368244370041868909&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "13368244370041868909",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=13368244370041868909&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 18,
-            "title": "Networked intelligent motor-control systems",
-            "result_id": "C3vThzlEl70J",
-            "link": "https://ieeexplore.ieee.org/abstract/document/959112/",
-            "snippet": "The integration of intelligent devices, device-level networks, and software into motor-control systems can deliver improved diagnostics, early warnings for increased system reliability, …",
+            "title": "What makes a strong team? Using collective intelligence to predict team performance in League of Legends",
+            "result_id": "HFiLnZ38IWwJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2998181.2998185",
+            "snippet": "Recent research has demonstrated that (a) groups can be characterized by a collective intelligence (CI) factor that measures their ability to perform together on a wide range of different …",
             "publication_info": {
-                "summary": "…, DR Doan, DL Jensen, TK Kim - IEEE Industry …, 2001 - ieeexplore.ieee.org",
+                "summary": "YJ Kim, D Engel, AW Woolley, JYT Lin… - Proceedings of the …, 2017 - dl.acm.org",
                 "authors": [
                     {
-                        "name": ""
+                        "name": "YJ Kim",
+                        "link": "https://scholar.google.com/citations?user=kbyzpdQAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "kbyzpdQAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kbyzpdQAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "DR Doan"
+                        "name": "D Engel",
+                        "link": "https://scholar.google.com/citations?user=iyrf8P8AAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "iyrf8P8AAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iyrf8P8AAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "DL Jensen"
+                        "name": "AW Woolley",
+                        "link": "https://scholar.google.com/citations?user=n41vSUAAAAAJ&hl=en&num=20&oi=sra",
+                        "author_id": "n41vSUAAAAAJ",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n41vSUAAAAAJ&engine=google_scholar_author&hl=en"
                     },
                     {
-                        "name": "TK Kim"
+                        "name": "JYT Lin"
                     }
                 ]
             },
             "resources": [
                 {
-                    "title": "ieee.org",
+                    "title": "acm.org",
                     "file_format": "PDF",
-                    "link": "https://ieeexplore.ieee.org/iel5/2943/20727/00959112.pdf"
+                    "link": "https://dl.acm.org/doi/pdf/10.1145/2998181.2998185"
                 }
             ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=C3vThzlEl70J",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HFiLnZ38IWwJ",
                 "cited_by": {
-                    "total": 23,
-                    "link": "https://scholar.google.com/scholar?cites=13661463008534297355&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "13661463008534297355",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13661463008534297355&engine=google_scholar&hl=en&num=20"
+                    "total": 244,
+                    "link": "https://scholar.google.com/scholar?cites=7791786584210888732&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "7791786584210888732",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=7791786584210888732&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:C3vThzlEl70J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AC3vThzlEl70J%3Ascholar.google.com%2F&start=0",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:HFiLnZ38IWwJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AHFiLnZ38IWwJ%3Ascholar.google.com%2F&start=0",
                 "versions": {
-                    "total": 4,
-                    "link": "https://scholar.google.com/scholar?cluster=13661463008534297355&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "13661463008534297355",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13661463008534297355&engine=google_scholar&hl=en&num=20"
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=7791786584210888732&hl=en&num=20&as_sdt=0,3",
+                    "cluster_id": "7791786584210888732",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C3&cluster=7791786584210888732&engine=google_scholar&hl=en&num=20"
                 }
             }
         },
         {
             "position": 19,
-            "title": "Kim-1/Tim-1 and immune cells: shifting sands",
-            "result_id": "lRSLYNcQrbYJ",
-            "type": "Html",
-            "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
-            "snippet": "… -1 in rodent acute kidney injury showed an absence of interstitial Kim-1, suggesting that Kim-1/Tim-… nominal Tim-1 expression on a minority of T cells and abundant kidney tubular Kim-1 …",
+            "title": "Korean protestant church growth in a shamanistic context",
+            "result_id": "1Arsch7yDioJ",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "T Ichimura, CR Brooks, JV Bonventre - Kidney international, 2012 - Elsevier",
+                "summary": "JYT Kim - 1995 - Vrije Universiteit",
                 "authors": [
                     {
-                        "name": "T Ichimura",
-                        "link": "https://scholar.google.com/citations?user=61bF3CgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "61bF3CgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=61bF3CgAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "CR Brooks",
-                        "link": "https://scholar.google.com/citations?user=qaQvafEAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "qaQvafEAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qaQvafEAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "JV Bonventre",
-                        "link": "https://scholar.google.com/citations?user=ZLSx3pIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "ZLSx3pIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZLSx3pIAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "JYT Kim"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "sciencedirect.com",
-                    "file_format": "HTML",
-                    "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lRSLYNcQrbYJ",
-                "html_version": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1Arsch7yDioJ",
                 "cited_by": {
-                    "total": 121,
-                    "link": "https://scholar.google.com/scholar?cites=13163195803097568405&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "13163195803097568405",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13163195803097568405&engine=google_scholar&hl=en&num=20"
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cites=3030625811857935060&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "3030625811857935060",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=3030625811857935060&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lRSLYNcQrbYJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlRSLYNcQrbYJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 14,
-                    "link": "https://scholar.google.com/scholar?cluster=13163195803097568405&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "13163195803097568405",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13163195803097568405&engine=google_scholar&hl=en&num=20"
-                }
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:1Arsch7yDioJ:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3A1Arsch7yDioJ%3Ascholar.google.com%2F&start=0"
             }
         },
         {
             "position": 20,
-            "title": "Identifying Connectivity Distributions from Neural Dynamics Using Flows",
-            "result_id": "zhZ_j9d-Ue8J",
-            "link": "https://arxiv.org/abs/2603.26506",
-            "snippet": "Connectivity structure shapes neural computation, but inferring this structure from population recordings is degenerate: multiple connectivity structures can generate identical dynamics. …",
+            "title": "s, DE Morris, AG Markelz, JYT Wei and DS Ginley",
+            "result_id": "QLxgj-SETZ8J",
+            "type": "Citation",
+            "snippet": "",
             "publication_info": {
-                "summary": "TD Kim, U Pereira-Obilinovic, Y Wang… - arXiv preprint arXiv …, 2026 - arxiv.org",
+                "summary": "RA Fisher, S Kim, SE Lacy, NE Philli - Phys. Rev. B, 1988",
                 "authors": [
                     {
-                        "name": "TD Kim",
-                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FTWUPusAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "RA Fisher"
                     },
                     {
-                        "name": "U Pereira-Obilinovic",
-                        "link": "https://scholar.google.com/citations?user=dpV8phYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "dpV8phYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dpV8phYAAAAJ&engine=google_scholar_author&hl=en"
+                        "name": "S Kim"
                     },
                     {
-                        "name": "Y Wang"
+                        "name": "SE Lacy"
+                    },
+                    {
+                        "name": "NE Philli"
                     }
                 ]
             },
-            "resources": [
-                {
-                    "title": "arxiv.org",
-                    "file_format": "PDF",
-                    "link": "https://arxiv.org/pdf/2603.26506"
-                }
-            ],
             "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zhZ_j9d-Ue8J",
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:zhZ_j9d-Ue8J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AzhZ_j9d-Ue8J%3Ascholar.google.com%2F&start=0",
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zhZ_j9d-Ue8J:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=QLxgj-SETZ8J",
+                "cited_by": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cites=11478977142430153792&as_sdt=805&sciodt=0,3&hl=en&num=20",
+                    "cites_id": "11478977142430153792",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=805&cites=11478977142430153792&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:QLxgj-SETZ8J:scholar.google.com/&scioq=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=related%3AQLxgj-SETZ8J%3Ascholar.google.com%2F&start=0"
             }
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
+        "next": "https://scholar.google.com/scholar?start=20&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
         "other_pages": {
-            "2": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "3": "https://scholar.google.com/scholar?start=40&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "4": "https://scholar.google.com/scholar?start=60&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "5": "https://scholar.google.com/scholar?start=80&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "6": "https://scholar.google.com/scholar?start=100&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "7": "https://scholar.google.com/scholar?start=120&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "8": "https://scholar.google.com/scholar?start=140&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "9": "https://scholar.google.com/scholar?start=160&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "10": "https://scholar.google.com/scholar?start=180&q=Tim+Kim&hl=en&num=20&as_sdt=0,5"
+            "2": "https://scholar.google.com/scholar?start=20&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "3": "https://scholar.google.com/scholar?start=40&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "4": "https://scholar.google.com/scholar?start=60&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "5": "https://scholar.google.com/scholar?start=80&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "6": "https://scholar.google.com/scholar?start=100&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "7": "https://scholar.google.com/scholar?start=120&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "8": "https://scholar.google.com/scholar?start=140&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "9": "https://scholar.google.com/scholar?start=160&q=JYT+Kim&hl=en&num=20&as_sdt=0,3",
+            "10": "https://scholar.google.com/scholar?start=180&q=JYT+Kim&hl=en&num=20&as_sdt=0,3"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
-        "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=20",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=20",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
-            "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=40",
-            "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=60",
-            "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=80",
-            "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=100",
-            "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=120",
-            "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=140",
-            "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=160",
-            "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=180"
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=20",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=40",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=60",
+            "5": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=80",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=100",
+            "7": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=120",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=140",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=160",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C3&engine=google_scholar&hl=en&num=20&q=JYT+Kim&start=180"
         }
     }
 }
