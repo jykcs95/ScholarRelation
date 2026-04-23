@@ -1,1051 +1,1459 @@
-{
-    "search_metadata": {
-        "id": "69e95dc4cc56d3a253fe5237",
-        "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.json",
-        "created_at": "2026-04-22 23:46:12 UTC",
-        "processed_at": "2026-04-22 23:46:12 UTC",
-        "google_scholar_url": "https://scholar.google.com/scholar?q=Tim+Kim&hl=en&start=0&num=21",
-        "raw_html_file": "https://serpapi.com/searches/13pCwu6knFXJg40chX_eUQ/69e95dc4cc56d3a253fe5237.html",
-        "total_time_taken": 6.17
+[
+    {
+        "created-date": {
+            "value": 1764039937200
+        },
+        "last-modified-date": {
+            "value": 1764039937200
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 197845568,
+        "path": "/0000-0002-4219-0995/work/197845568",
+        "title": {
+            "title": {
+                "value": "Seasonal dynamics of prokaryotic nitrogen cycling genes in cropland soils: Effects of soil texture, tillage, and environmental factors"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Soil and Tillage Research"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2025"
+            },
+            "month": {
+                "value": "11"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.still.2025.106694",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.still.2025.106694"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0167-1987",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0167-1987"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.still.2025.106694"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Jingjing Yang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Damien R. Finn"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Joachim Brunotte"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0003-4861-0214",
+                        "path": "0000-0003-4861-0214",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Christoph C. Tebbe"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
     },
-    "search_parameters": {
-        "engine": "google_scholar",
-        "q": "Tim Kim",
-        "hl": "en",
-        "start": 0,
-        "num": "20"
+    {
+        "created-date": {
+            "value": 1764039968072
+        },
+        "last-modified-date": {
+            "value": 1764039968072
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 197845583,
+        "path": "/0000-0002-4219-0995/work/197845583",
+        "title": {
+            "title": {
+                "value": "Organic matter accelerated microbial iron reduction and available phosphorus release in reflooded paddy soils"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Soil Ecology Letters"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2025"
+            },
+            "month": {
+                "value": "09"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1007/s42832-025-0316-0",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1007/s42832-025-0316-0"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "2662-2289",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/2662-2289"
+                    },
+                    "external-id-relationship": "PART_OF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "2662-2297",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/2662-2297"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1007/s42832-025-0316-0"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Xipeng Liu"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Yuchen Shu"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Kejie Li"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Qingfang Bi"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haibo Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Chengliang Sun"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Xianyong Lin"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
     },
-    "search_information": {
-        "organic_results_state": "Results for exact spelling",
-        "total_results": 2730000,
-        "time_taken_displayed": 0.14,
-        "query_displayed": "Tim Kim"
+    {
+        "created-date": {
+            "value": 1764040021485
+        },
+        "last-modified-date": {
+            "value": 1764040021485
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 197845688,
+        "path": "/0000-0002-4219-0995/work/197845688",
+        "title": {
+            "title": {
+                "value": "Implications of size-dependent predation of protists and nematodes on the composition and functionality of the prokaryotic soil microbiome"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Applied Soil Ecology"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2025"
+            },
+            "month": {
+                "value": "08"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.apsoil.2025.106201",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.apsoil.2025.106201"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0929-1393",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0929-1393"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.apsoil.2025.106201"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Stefan Geisen"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Christoph C. Tebbe"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
     },
-    "profiles": {
-        "title": "User profiles for Tim Kim",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&mauthors=Tim+Kim&hl=en&num=20&oi=ao",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=Tim+Kim",
-        "authors": [
-            {
-                "name": "Timothy Doyeon Kim",
-                "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=ao",
-                "serpapi_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en",
-                "author_id": "FTWUPusAAAAJ",
-                "affiliations": "Allen Institute & University of Washington",
-                "email": "Verified email at alleninstitute.org",
-                "cited_by": 201
+    {
+        "created-date": {
+            "value": 1739438142395
+        },
+        "last-modified-date": {
+            "value": 1739438142395
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
             }
-        ]
+        },
+        "put-code": 177981483,
+        "path": "/0000-0002-4219-0995/work/177981483",
+        "title": {
+            "title": {
+                "value": "Distinct seasonal and annual variability of prokaryotes, fungi and protists in cropland soil under different tillage systems and soil texture"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Soil Biology and Biochemistry"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2025"
+            },
+            "month": {
+                "value": "04"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.soilbio.2025.109732",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.soilbio.2025.109732"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0038-0717",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0038-0717"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.soilbio.2025.109732"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0009-0007-9395-0468",
+                        "path": "0009-0007-9395-0468",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Jingjing Yang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Damien R. Finn"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Joachim Brunotte"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0003-4861-0214",
+                        "path": "0000-0003-4861-0214",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Christoph C. Tebbe"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
     },
-    "organic_results": [
-        {
-            "position": 1,
-            "title": "An abundant dysfunctional apolipoprotein A1 in human atheroma",
-            "result_id": "HFINSxMj5XsJ",
-            "link": "https://www.nature.com/articles/nm.3459",
-            "snippet": "Recent studies have indicated that high-density lipoproteins (HDLs) and their major structural protein, apolipoprotein A1 (apoA1), recovered from human atheroma are dysfunctional …",
-            "publication_info": {
-                "summary": "…, BS Levison, D Schmitt, L Li, Y Wu, J Buffa, T Kim… - Nature medicine, 2014 - nature.com",
-                "authors": [
-                    {
-                        "name": ""
-                    },
-                    {
-                        "name": "BS Levison"
-                    },
-                    {
-                        "name": "D Schmitt"
-                    },
-                    {
-                        "name": "L Li"
-                    },
-                    {
-                        "name": "Y Wu",
-                        "link": "https://scholar.google.com/citations?user=hOO6uyMAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "hOO6uyMAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hOO6uyMAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "J Buffa"
-                    },
-                    {
-                        "name": "T Kim"
-                    }
-                ]
+    {
+        "created-date": {
+            "value": 1726985855005
+        },
+        "last-modified-date": {
+            "value": 1726985855005
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
             },
-            "resources": [
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 167999848,
+        "path": "/0000-0002-4219-0995/work/167999848",
+        "title": {
+            "title": {
+                "value": "Systemic inflammatory response to daily exposure to microcystin-LR and the underlying gut microbial mechanisms"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Journal of Hazardous Materials"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2024"
+            },
+            "month": {
+                "value": "09"
+            },
+            "day": {
+                "value": "14"
+            },
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
                 {
-                    "title": "nih.gov",
-                    "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3923163/pdf/nihms551736.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HFINSxMj5XsJ",
-                "cited_by": {
-                    "total": 449,
-                    "link": "https://scholar.google.com/scholar?cites=8927580402102391324&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "8927580402102391324",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=8927580402102391324&engine=google_scholar&hl=en&num=20"
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.jhazmat.2024.135855",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.jhazmat.2024.135855"
+                    },
+                    "external-id-relationship": "SELF"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:HFINSxMj5XsJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHFINSxMj5XsJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 23,
-                    "link": "https://scholar.google.com/scholar?cluster=8927580402102391324&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "8927580402102391324",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=8927580402102391324&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 2,
-            "title": "Important surgical considerations in the management of renal cell carcinoma (RCC) with inferior vena cava (IVC) tumour thrombus",
-            "result_id": "1zv39lDS0bMJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11174.x",
-            "snippet": "What's known on the subject? and What does the study add? Historically, the surgical management of renal tumours with intravascular tumour thrombus has been associated with high …",
-            "publication_info": {
-                "summary": "SM Lawindy, T Kurian, T Kim, D Mangar… - BJU …, 2012 - Wiley Online Library",
-                "authors": [
-                    {
-                        "name": "SM Lawindy"
-                    },
-                    {
-                        "name": "T Kurian"
-                    },
-                    {
-                        "name": "T Kim"
-                    },
-                    {
-                        "name": "D Mangar",
-                        "link": "https://scholar.google.com/citations?user=5cpy61cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "5cpy61cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5cpy61cAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
                 {
-                    "title": "academia.edu",
-                    "file_format": "PDF",
-                    "link": "https://www.academia.edu/download/78356708/9-Renal_Cell_Carcinoma.pdf"
+                    "external-id-type": "issn",
+                    "external-id-value": "0304-3894",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0304-3894"
+                    },
+                    "external-id-relationship": "PART_OF"
                 }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1zv39lDS0bMJ",
-                "cited_by": {
-                    "total": 192,
-                    "link": "https://scholar.google.com/scholar?cites=12957368848104242135&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12957368848104242135",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12957368848104242135&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:1zv39lDS0bMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A1zv39lDS0bMJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 19,
-                    "link": "https://scholar.google.com/scholar?cluster=12957368848104242135&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12957368848104242135",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12957368848104242135&engine=google_scholar&hl=en&num=20"
-                }
-            }
+            ]
         },
-        {
-            "position": 3,
-            "title": "Machine learning in cardiac CT: basic concepts and contemporary data",
-            "result_id": "tQ28heBEdjkJ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1934592518300844",
-            "snippet": "Propelled by the synergy of the groundbreaking advancements in the ability to analyze high-dimensional datasets and the increasing availability of imaging and clinical data, machine …",
-            "publication_info": {
-                "summary": "G Singh, SJ Al'Aref, M Van Assen, TS Kim… - Journal of …, 2018 - Elsevier",
-                "authors": [
-                    {
-                        "name": "G Singh",
-                        "link": "https://scholar.google.com/citations?user=IKBgQ7cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "IKBgQ7cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IKBgQ7cAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "SJ Al'Aref",
-                        "link": "https://scholar.google.com/citations?user=EleQiv8AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "EleQiv8AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EleQiv8AAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "M Van Assen",
-                        "link": "https://scholar.google.com/citations?user=MTFIqAgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "MTFIqAgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MTFIqAgAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "TS Kim"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tQ28heBEdjkJ",
-                "cited_by": {
-                    "total": 136,
-                    "link": "https://scholar.google.com/scholar?cites=4140572638520806837&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4140572638520806837",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4140572638520806837&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:tQ28heBEdjkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AtQ28heBEdjkJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 5,
-                    "link": "https://scholar.google.com/scholar?cluster=4140572638520806837&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4140572638520806837",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4140572638520806837&engine=google_scholar&hl=en&num=20"
-                }
-            }
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.jhazmat.2024.135855"
         },
-        {
-            "position": 4,
-            "title": "A characterization of dendritic cells and their role in immunotherapy in glioblastoma: from preclinical studies to clinical trials",
-            "result_id": "AZ6lIyZ-akMJ",
-            "type": "Html",
-            "link": "https://www.mdpi.com/2072-6694/11/4/537",
-            "snippet": "Glioblastoma (GBM) is the most common and fatal primary central nervous system malignancy in adults with a median survival of less than 15 months. Surgery, radiation, and …",
-            "publication_info": {
-                "summary": "S Srivastava, C Jackson, T Kim, J Choi, M Lim - Cancers, 2019 - mdpi.com",
-                "authors": [
-                    {
-                        "name": "S Srivastava"
-                    },
-                    {
-                        "name": "C Jackson",
-                        "link": "https://scholar.google.com/citations?user=hVO81YwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "hVO81YwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hVO81YwAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "T Kim"
-                    },
-                    {
-                        "name": "J Choi",
-                        "link": "https://scholar.google.com/citations?user=yY101J0AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "yY101J0AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yY101J0AAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "M Lim"
-                    }
-                ]
-            },
-            "resources": [
+        "contributors": {
+            "contributor": [
                 {
-                    "title": "mdpi.com",
-                    "file_format": "HTML",
-                    "link": "https://www.mdpi.com/2072-6694/11/4/537"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AZ6lIyZ-akMJ",
-                "html_version": "https://www.mdpi.com/2072-6694/11/4/537",
-                "cited_by": {
-                    "total": 142,
-                    "link": "https://scholar.google.com/scholar?cites=4857833850344414721&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4857833850344414721",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4857833850344414721&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:AZ6lIyZ-akMJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AAZ6lIyZ-akMJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=4857833850344414721&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4857833850344414721",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4857833850344414721&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:AZ6lIyZ-akMJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
-            }
-        },
-        {
-            "position": 5,
-            "title": "Inferring latent dynamics underlying neural population activity via neural differential equations",
-            "result_id": "84SqTDcMX8UJ",
-            "link": "http://proceedings.mlr.press/v139/kim21h.html",
-            "snippet": "An important problem in systems neuroscience is to identify the latent dynamics underlying neural population activity. Here we address this problem by introducing a low-dimensional …",
-            "publication_info": {
-                "summary": "TD Kim, TZ Luo, JW Pillow… - … conference on machine …, 2021 - proceedings.mlr.press",
-                "authors": [
-                    {
-                        "name": "TD Kim",
-                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FTWUPusAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "TZ Luo",
-                        "link": "https://scholar.google.com/citations?user=w59lcBoAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "w59lcBoAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w59lcBoAAAAJ&engine=google_scholar_author&hl=en"
+                    "credit-name": {
+                        "value": "Yanyan Zhao"
                     },
-                    {
-                        "name": "JW Pillow",
-                        "link": "https://scholar.google.com/citations?user=-ElvJ9wAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "-ElvJ9wAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-ElvJ9wAAAAJ&engine=google_scholar_author&hl=en"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "resources": [
+                },
                 {
-                    "title": "mlr.press",
-                    "file_format": "PDF",
-                    "link": "http://proceedings.mlr.press/v139/kim21h/kim21h.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=84SqTDcMX8UJ",
-                "cited_by": {
-                    "total": 85,
-                    "link": "https://scholar.google.com/scholar?cites=14222099579908293875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "14222099579908293875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14222099579908293875&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:84SqTDcMX8UJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A84SqTDcMX8UJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=14222099579908293875&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "14222099579908293875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14222099579908293875&engine=google_scholar&hl=en&num=20"
-                },
-                "cached_page_link": "http://scholar.googleusercontent.com/scholar?q=cache:84SqTDcMX8UJ:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
-            }
-        },
-        {
-            "position": 6,
-            "title": "Predicting postoperative complications of inguinal lymph node dissection for penile cancer in an international multicentre cohort",
-            "result_id": "6hY5Ew_SGCUJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bju.13009",
-            "snippet": "Objectives To assess the potential complications associated with inguinal lymph node dissection ( ILND ) across international tertiary care referral centres, and to determine the …",
-            "publication_info": {
-                "summary": "…, Y Zhu, C Protzel, JM Pow‐Sang, T Kim… - BJU …, 2015 - Wiley Online Library",
-                "authors": [
-                    {
-                        "name": ""
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "Y Zhu"
+                    "credit-name": {
+                        "value": "Harry Sokol"
                     },
-                    {
-                        "name": "C Protzel"
-                    },
-                    {
-                        "name": "JM Pow‐Sang"
-                    },
-                    {
-                        "name": "T Kim"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=6hY5Ew_SGCUJ",
-                "cited_by": {
-                    "total": 104,
-                    "link": "https://scholar.google.com/scholar?cites=2673117341033240298&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "2673117341033240298",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2673117341033240298&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:6hY5Ew_SGCUJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A6hY5Ew_SGCUJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 7,
-                    "link": "https://scholar.google.com/scholar?cluster=2673117341033240298&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "2673117341033240298",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2673117341033240298&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 7,
-            "title": "Parasite resistance and genetic variation in the endangered Gila topminnow",
-            "result_id": "bqD1gtdE1UkJ",
-            "link": "https://www.cambridge.org/core/journals/animal-conservation-forum/article/parasite-resistance-and-genetic-variation-in-the-endangered-gila-topminnow/35FFC6CDC311F36F61B48C24BA585DFE",
-            "snippet": "In recent years, it has become apparent that introduced or novel pathogens or parasites may have a significant negative impact on endangered species. Here we examine …",
-            "publication_info": {
-                "summary": "PW Hedrick, TJ Kim, KM Parker - Animal Conservation Forum, 2001 - cambridge.org",
-                "authors": [
-                    {
-                        "name": "PW Hedrick"
-                    },
-                    {
-                        "name": "TJ Kim"
-                    },
-                    {
-                        "name": "KM Parker",
-                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "rPoMPlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bqD1gtdE1UkJ",
-                "cited_by": {
-                    "total": 159,
-                    "link": "https://scholar.google.com/scholar?cites=5320234227213901934&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "5320234227213901934",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=5320234227213901934&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:bqD1gtdE1UkJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AbqD1gtdE1UkJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 9,
-                    "link": "https://scholar.google.com/scholar?cluster=5320234227213901934&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "5320234227213901934",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=5320234227213901934&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 8,
-            "title": "Implications for human papillomavirus in penile cancer",
-            "result_id": "c_2xacFZk1sJ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1078143913003207",
-            "snippet": "Human papillomavirus infection (HPV) has been implicated in penile cancer, and although the annual incidence is estimated to be 1,570 in the United States, there are areas of the …",
-            "publication_info": {
-                "summary": "A Flaherty, T Kim, A Giuliano, A Magliocco… - … Oncology: Seminars and …, 2014 - Elsevier",
-                "authors": [
-                    {
-                        "name": "A Flaherty"
-                    },
-                    {
-                        "name": "T Kim"
-                    },
-                    {
-                        "name": "A Giuliano"
-                    },
-                    {
-                        "name": "A Magliocco",
-                        "link": "https://scholar.google.com/citations?user=f1oJ5gIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "f1oJ5gIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f1oJ5gIAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=c_2xacFZk1sJ",
-                "cited_by": {
-                    "total": 83,
-                    "link": "https://scholar.google.com/scholar?cites=6598716566264741235&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "6598716566264741235",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6598716566264741235&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:c_2xacFZk1sJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ac_2xacFZk1sJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 6,
-                    "link": "https://scholar.google.com/scholar?cluster=6598716566264741235&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "6598716566264741235",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6598716566264741235&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 9,
-            "title": "Using percentage of sarcomatoid differentiation as a prognostic factor in renal cell carcinoma",
-            "result_id": "2j94M1MjLq0J",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1558767314002614",
-            "snippet": "Background The objective of this study was to determine if the percentage of sarcomatoid differentiation (%Sarc) in renal cell carcinoma (RCC) can be used for prognostic risk …",
-            "publication_info": {
-                "summary": "T Kim, K Zargar-Shoshtari, J Dhillon, HY Lin… - Clinical genitourinary …, 2015 - Elsevier",
-                "authors": [
-                    {
-                        "name": "T Kim"
-                    },
-                    {
-                        "name": "K Zargar-Shoshtari",
-                        "link": "https://scholar.google.com/citations?user=LCHRmLYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "LCHRmLYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LCHRmLYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "J Dhillon"
-                    },
-                    {
-                        "name": "HY Lin"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2j94M1MjLq0J",
-                "cited_by": {
-                    "total": 68,
-                    "link": "https://scholar.google.com/scholar?cites=12478950457742999514&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12478950457742999514",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12478950457742999514&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:2j94M1MjLq0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A2j94M1MjLq0J%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 8,
-                    "link": "https://scholar.google.com/scholar?cluster=12478950457742999514&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12478950457742999514",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12478950457742999514&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 10,
-            "title": "Preoperative metastatic status, level of thrombus and body mass index predict overall survival in patients undergoing nephrectomy and inferior vena cava …",
-            "result_id": "EQA9Y6gVwhgJ",
-            "link": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1464-410X.2012.11155.x",
-            "snippet": "Study Type – Prognosis (case series) Level of Evidence 4 What's known on the subject? and What does the study add? Little is known about the prognostic impact of body mass index (…",
-            "publication_info": {
-                "summary": "PE Spiess, T Kurian, HY Lin, B Rawal, T Kim… - BJU …, 2012 - Wiley Online Library",
-                "authors": [
-                    {
-                        "name": "PE Spiess"
-                    },
-                    {
-                        "name": "T Kurian"
-                    },
-                    {
-                        "name": "HY Lin"
-                    },
-                    {
-                        "name": "B Rawal",
-                        "link": "https://scholar.google.com/citations?user=qzSRwmwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "qzSRwmwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qzSRwmwAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "T Kim"
-                    }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=EQA9Y6gVwhgJ",
-                "cited_by": {
-                    "total": 43,
-                    "link": "https://scholar.google.com/scholar?cites=1784012215355768849&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "1784012215355768849",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1784012215355768849&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:EQA9Y6gVwhgJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AEQA9Y6gVwhgJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 6,
-                    "link": "https://scholar.google.com/scholar?cluster=1784012215355768849&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "1784012215355768849",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1784012215355768849&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 11,
-            "title": "A polymorphism in TIM1 is associated with susceptibility to severe hepatitis A virus infection in humans",
-            "result_id": "BYviSc5qqgoJ",
-            "link": "https://www.jci.org/articles/view/44182",
-            "snippet": "… TIM-1 binds HAV more efficiently than the short form of TIM-1, and that NKT cells expressing the long form of TIM… in individuals with the long form of TIM-1. Importantly, our observation …",
-            "publication_info": {
-                "summary": "HY Kim, MB Eyheramonho, M Pichavant… - The Journal of clinical …, 2011 - jci.org",
-                "authors": [
-                    {
-                        "name": "HY Kim",
-                        "link": "https://scholar.google.com/citations?user=7mLJ_ZYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "7mLJ_ZYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7mLJ_ZYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "MB Eyheramonho"
-                    },
-                    {
-                        "name": "M Pichavant",
-                        "link": "https://scholar.google.com/citations?user=_TLW2hIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "_TLW2hIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_TLW2hIAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
                 {
-                    "title": "jci.org",
-                    "file_format": "PDF",
-                    "link": "https://www.jci.org/articles/view/44182/files/pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=BYviSc5qqgoJ",
-                "cited_by": {
-                    "total": 129,
-                    "link": "https://scholar.google.com/scholar?cites=768544120655481605&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "768544120655481605",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=768544120655481605&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:BYviSc5qqgoJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ABYviSc5qqgoJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 18,
-                    "link": "https://scholar.google.com/scholar?cluster=768544120655481605&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "768544120655481605",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=768544120655481605&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 12,
-            "title": "Genetic disparity between morphologically benign cysts contiguous to ovarian carcinomas and solitary cystadenomas",
-            "result_id": "M0zNZvaFkc0J",
-            "link": "https://academic.oup.com/jnci/article-abstract/87/15/1146/1091564",
-            "snippet": "Background: Ovarian carcinomas occasionally contain large, histologically benign cysts contiguous to the clearly malignant areas (cystadenocarcinomas). The question of whether such …",
-            "publication_info": {
-                "summary": "…, WF Benedict, HJ Xu, SX Hu, TM Kim… - JNCI: Journal of the …, 1995 - academic.oup.com",
-                "authors": [
-                    {
-                        "name": ""
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "WF Benedict"
+                    "credit-name": {
+                        "value": "Qing Cao"
                     },
-                    {
-                        "name": "HJ Xu"
-                    },
-                    {
-                        "name": "SX Hu"
-                    },
-                    {
-                        "name": "TM Kim"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=M0zNZvaFkc0J",
-                "cited_by": {
-                    "total": 108,
-                    "link": "https://scholar.google.com/scholar?cites=14812767942731451443&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "14812767942731451443",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14812767942731451443&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:M0zNZvaFkc0J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AM0zNZvaFkc0J%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 9,
-                    "link": "https://scholar.google.com/scholar?cluster=14812767942731451443&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "14812767942731451443",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14812767942731451443&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 13,
-            "title": "Loss of heterozygosity on chromosome 13 is common only in the biologically more aggressive subtypes of ovarian epithelial tumors and is associated with normal …",
-            "result_id": "HGJE9SX4PloJ",
-            "link": "https://aacrjournals.org/cancerres/article-abstract/54/3/605/500964",
-            "snippet": "We examined the frequencies of loss of heterozygosity on chromosome 13 in 77 primary ovarian epithelial tumors subdivided into cystadenomas, tumors of low malignant potential, low …",
-            "publication_info": {
-                "summary": "TM Kim, WF Benedict, HJ Xu, SX Hu, J Gosewehr… - Cancer …, 1994 - aacrjournals.org",
-                "authors": [
-                    {
-                        "name": "TM Kim"
-                    },
-                    {
-                        "name": "WF Benedict"
-                    },
-                    {
-                        "name": "HJ Xu"
-                    },
-                    {
-                        "name": "SX Hu"
-                    },
-                    {
-                        "name": "J Gosewehr"
-                    }
-                ]
-            },
-            "resources": [
                 {
-                    "title": "researchgate.net",
-                    "file_format": "PDF",
-                    "link": "https://www.researchgate.net/profile/Louis-Dubeau/publication/14893616_Loss_of_Heterozygosity_on_Chromosome_13_Is_Common_Only_in_the_Biologically_More_Aggressive_Subtypes_of_Ovarian_Epithelial_Tumors_and_Is_Associated_with_Normal_Retinoblastoma_Gene_Expression/links/0c9605182947bea57a000000/Loss-of-Heterozygosity-on-Chromosome-13-Is-Common-Only-in-the-Biologically-More-Aggressive-Subtypes-of-Ovarian-Epithelial-Tumors-and-Is-Associated-with-Normal-Retinoblastoma-Gene-Expression.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=HGJE9SX4PloJ",
-                "cited_by": {
-                    "total": 106,
-                    "link": "https://scholar.google.com/scholar?cites=6502907753881952796&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "6502907753881952796",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6502907753881952796&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:HGJE9SX4PloJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AHGJE9SX4PloJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=6502907753881952796&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "6502907753881952796",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6502907753881952796&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 14,
-            "title": "Potential role of the inactivated X chromosome in ovarian epithelial tumor development",
-            "result_id": "hE4SQG4fWScJ",
-            "link": "https://academic.oup.com/jnci/article-abstract/88/8/510/915110",
-            "snippet": "Background: Ovarian epithelial tumors can be divided into subcategories often regarded as different stages of neoplastic transformation. Cystadenomas belong to the least aggressive …",
-            "publication_info": {
-                "summary": "PC Cheng, JA Gosewehr, TM Kim… - JNCI: Journal of the …, 1996 - academic.oup.com",
-                "authors": [
-                    {
-                        "name": "PC Cheng"
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "JA Gosewehr"
+                    "credit-name": {
+                        "value": "Hui Zhang"
                     },
-                    {
-                        "name": "TM Kim"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "resources": [
+                },
                 {
-                    "title": "oup.com",
-                    "file_format": "PDF",
-                    "link": "https://academic.oup.com/jnci/article-pdf/88/8/510/7811794/88-8-510.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hE4SQG4fWScJ",
-                "cited_by": {
-                    "total": 94,
-                    "link": "https://scholar.google.com/scholar?cites=2835331998788243076&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "2835331998788243076",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2835331998788243076&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:hE4SQG4fWScJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AhE4SQG4fWScJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 10,
-                    "link": "https://scholar.google.com/scholar?cluster=2835331998788243076&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "2835331998788243076",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2835331998788243076&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 15,
-            "title": "Major histocompatibility complex differentiation in Sacramento River chinook salmon",
-            "result_id": "lYAwOTFu7EIJ",
-            "link": "https://academic.oup.com/genetics/article-abstract/151/3/1115/6034703",
-            "snippet": "The chinook salmon of the Sacramento River, California, have been reduced to a fraction of their former abundance because of human impact and use of the river system. Here we …",
-            "publication_info": {
-                "summary": "TJ Kim, KM Parker, PW Hedrick - Genetics, 1999 - academic.oup.com",
-                "authors": [
-                    {
-                        "name": "TJ Kim"
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "KM Parker",
-                        "link": "https://scholar.google.com/citations?user=rPoMPlwAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "rPoMPlwAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rPoMPlwAAAAJ&engine=google_scholar_author&hl=en"
+                    "credit-name": {
+                        "value": "Yunjun Yan"
                     },
-                    {
-                        "name": "PW Hedrick"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "resources": [
+                },
                 {
-                    "title": "nih.gov",
-                    "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1460519/pdf/10049927.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lYAwOTFu7EIJ",
-                "cited_by": {
-                    "total": 80,
-                    "link": "https://scholar.google.com/scholar?cites=4822350458698891413&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "4822350458698891413",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=4822350458698891413&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lYAwOTFu7EIJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlYAwOTFu7EIJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 12,
-                    "link": "https://scholar.google.com/scholar?cluster=4822350458698891413&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "4822350458698891413",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=4822350458698891413&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 16,
-            "title": "Identification of Tapr (an airway hyperreactivity regulatory locus) and the linked Tim gene family",
-            "result_id": "Q99kyUWOCpQJ",
-            "link": "https://www.nature.com/articles/ni739",
-            "snippet": "… rat KIM-1 and 42% identity with human HAVcr-1. The multiple sequence alignment with mouse TIM-1, rat KIM-… -1 showed the degree of homology between the TIM-1, KIM-1 and HAVcr-1 …",
-            "publication_info": {
-                "summary": "JJ McIntire, SE Umetsu, O Akbari, M Potter… - Nature …, 2001 - nature.com",
-                "authors": [
-                    {
-                        "name": "JJ McIntire"
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "SE Umetsu"
+                    "credit-name": {
+                        "value": "Liqiang Xie"
                     },
-                    {
-                        "name": "O Akbari",
-                        "link": "https://scholar.google.com/citations?user=AU_LEn8AAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "AU_LEn8AAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AU_LEn8AAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "M Potter"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q99kyUWOCpQJ",
-                "cited_by": {
-                    "total": 747,
-                    "link": "https://scholar.google.com/scholar?cites=10667495097763159875&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "10667495097763159875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10667495097763159875&engine=google_scholar&hl=en&num=20"
                 },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:Q99kyUWOCpQJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AQ99kyUWOCpQJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 11,
-                    "link": "https://scholar.google.com/scholar?cluster=10667495097763159875&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "10667495097763159875",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10667495097763159875&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 17,
-            "title": "Combination therapy with anti-PD-1, anti-TIM-3, and focal radiation results in regression of murine gliomas",
-            "result_id": "e6sli7EzY6wJ",
-            "link": "https://aacrjournals.org/clincancerres/article-abstract/23/1/124/122710",
-            "snippet": "… We investigate TIM-3 expression in a glioma model and the antitumor efficacy of TIM-3 … We also demonstrate the presence of TIM-3 in human glioblastoma multiforme and provide …",
-            "publication_info": {
-                "summary": "JE Kim, MA Patel, A Mangraviti, ES Kim… - Clinical Cancer …, 2017 - aacrjournals.org",
-                "authors": [
-                    {
-                        "name": "JE Kim",
-                        "link": "https://scholar.google.com/citations?user=lZ3Bc3cAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "lZ3Bc3cAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lZ3Bc3cAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "MA Patel",
-                        "link": "https://scholar.google.com/citations?user=4x1fpHAAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "4x1fpHAAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4x1fpHAAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "A Mangraviti"
-                    },
-                    {
-                        "name": "ES Kim"
-                    }
-                ]
-            },
-            "resources": [
                 {
-                    "title": "nih.gov",
-                    "file_format": "PDF",
-                    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5735836/pdf/nihms924376.pdf"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=e6sli7EzY6wJ",
-                "cited_by": {
-                    "total": 511,
-                    "link": "https://scholar.google.com/scholar?cites=12421829034854689659&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "12421829034854689659",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12421829034854689659&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:e6sli7EzY6wJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ae6sli7EzY6wJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 12,
-                    "link": "https://scholar.google.com/scholar?cluster=12421829034854689659&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "12421829034854689659",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12421829034854689659&engine=google_scholar&hl=en&num=20"
-                }
-            }
-        },
-        {
-            "position": 18,
-            "title": "Networked intelligent motor-control systems",
-            "result_id": "C3vThzlEl70J",
-            "link": "https://ieeexplore.ieee.org/abstract/document/959112/",
-            "snippet": "The integration of intelligent devices, device-level networks, and software into motor-control systems can deliver improved diagnostics, early warnings for increased system reliability, …",
-            "publication_info": {
-                "summary": "…, DR Doan, DL Jensen, TK Kim - IEEE Industry …, 2001 - ieeexplore.ieee.org",
-                "authors": [
-                    {
-                        "name": ""
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
                     },
-                    {
-                        "name": "DR Doan"
+                    "credit-name": {
+                        "value": "Haotian Wang"
                     },
-                    {
-                        "name": "DL Jensen"
-                    },
-                    {
-                        "name": "TK Kim"
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
                     }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "ieee.org",
-                    "file_format": "PDF",
-                    "link": "https://ieeexplore.ieee.org/iel5/2943/20727/00959112.pdf"
                 }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=C3vThzlEl70J",
-                "cited_by": {
-                    "total": 23,
-                    "link": "https://scholar.google.com/scholar?cites=13661463008534297355&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "13661463008534297355",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13661463008534297355&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:C3vThzlEl70J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AC3vThzlEl70J%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 4,
-                    "link": "https://scholar.google.com/scholar?cluster=13661463008534297355&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "13661463008534297355",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13661463008534297355&engine=google_scholar&hl=en&num=20"
-                }
-            }
+            ]
         },
-        {
-            "position": 19,
-            "title": "Kim-1/Tim-1 and immune cells: shifting sands",
-            "result_id": "lRSLYNcQrbYJ",
-            "type": "Html",
-            "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
-            "snippet": "… -1 in rodent acute kidney injury showed an absence of interstitial Kim-1, suggesting that Kim-1/Tim-… nominal Tim-1 expression on a minority of T cells and abundant kidney tubular Kim-1 …",
-            "publication_info": {
-                "summary": "T Ichimura, CR Brooks, JV Bonventre - Kidney international, 2012 - Elsevier",
-                "authors": [
-                    {
-                        "name": "T Ichimura",
-                        "link": "https://scholar.google.com/citations?user=61bF3CgAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "61bF3CgAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=61bF3CgAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "CR Brooks",
-                        "link": "https://scholar.google.com/citations?user=qaQvafEAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "qaQvafEAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qaQvafEAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "JV Bonventre",
-                        "link": "https://scholar.google.com/citations?user=ZLSx3pIAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "ZLSx3pIAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZLSx3pIAAAAJ&engine=google_scholar_author&hl=en"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "sciencedirect.com",
-                    "file_format": "HTML",
-                    "link": "https://www.sciencedirect.com/science/article/pii/S0085253815554136"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lRSLYNcQrbYJ",
-                "html_version": "https://www.sciencedirect.com/science/article/pii/S0085253815554136",
-                "cited_by": {
-                    "total": 121,
-                    "link": "https://scholar.google.com/scholar?cites=13163195803097568405&as_sdt=2005&sciodt=0,5&hl=en&num=20",
-                    "cites_id": "13163195803097568405",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13163195803097568405&engine=google_scholar&hl=en&num=20"
-                },
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:lRSLYNcQrbYJ:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AlRSLYNcQrbYJ%3Ascholar.google.com%2F&start=0",
-                "versions": {
-                    "total": 14,
-                    "link": "https://scholar.google.com/scholar?cluster=13163195803097568405&hl=en&num=20&as_sdt=0,5",
-                    "cluster_id": "13163195803097568405",
-                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13163195803097568405&engine=google_scholar&hl=en&num=20"
-                }
-            }
+        "language-code": "en",
+        "country": {
+            "value": "CN"
         },
-        {
-            "position": 20,
-            "title": "Identifying Connectivity Distributions from Neural Dynamics Using Flows",
-            "result_id": "zhZ_j9d-Ue8J",
-            "link": "https://arxiv.org/abs/2603.26506",
-            "snippet": "Connectivity structure shapes neural computation, but inferring this structure from population recordings is degenerate: multiple connectivity structures can generate identical dynamics. …",
-            "publication_info": {
-                "summary": "TD Kim, U Pereira-Obilinovic, Y Wang… - arXiv preprint arXiv …, 2026 - arxiv.org",
-                "authors": [
-                    {
-                        "name": "TD Kim",
-                        "link": "https://scholar.google.com/citations?user=FTWUPusAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "FTWUPusAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FTWUPusAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "U Pereira-Obilinovic",
-                        "link": "https://scholar.google.com/citations?user=dpV8phYAAAAJ&hl=en&num=20&oi=sra",
-                        "author_id": "dpV8phYAAAAJ",
-                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dpV8phYAAAAJ&engine=google_scholar_author&hl=en"
-                    },
-                    {
-                        "name": "Y Wang"
-                    }
-                ]
-            },
-            "resources": [
-                {
-                    "title": "arxiv.org",
-                    "file_format": "PDF",
-                    "link": "https://arxiv.org/pdf/2603.26506"
-                }
-            ],
-            "inline_links": {
-                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zhZ_j9d-Ue8J",
-                "related_pages_link": "https://scholar.google.com/scholar?q=related:zhZ_j9d-Ue8J:scholar.google.com/&scioq=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AzhZ_j9d-Ue8J%3Ascholar.google.com%2F&start=0",
-                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zhZ_j9d-Ue8J:scholar.google.com/+Tim+Kim&hl=en&num=20&as_sdt=0,5"
-            }
-        }
-    ],
-    "pagination": {
-        "current": 1,
-        "next": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-        "other_pages": {
-            "2": "https://scholar.google.com/scholar?start=20&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "3": "https://scholar.google.com/scholar?start=40&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "4": "https://scholar.google.com/scholar?start=60&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "5": "https://scholar.google.com/scholar?start=80&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "6": "https://scholar.google.com/scholar?start=100&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "7": "https://scholar.google.com/scholar?start=120&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "8": "https://scholar.google.com/scholar?start=140&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "9": "https://scholar.google.com/scholar?start=160&q=Tim+Kim&hl=en&num=20&as_sdt=0,5",
-            "10": "https://scholar.google.com/scholar?start=180&q=Tim+Kim&hl=en&num=20&as_sdt=0,5"
-        }
+        "visibility": "PUBLIC"
     },
-    "serpapi_pagination": {
-        "current": 1,
-        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
-        "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
-        "other_pages": {
-            "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=20",
-            "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=40",
-            "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=60",
-            "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=80",
-            "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=100",
-            "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=120",
-            "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=140",
-            "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=160",
-            "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Tim+Kim&start=180"
-        }
+    {
+        "created-date": {
+            "value": 1719559644247
+        },
+        "last-modified-date": {
+            "value": 1719559644247
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 162519469,
+        "path": "/0000-0002-4219-0995/work/162519469",
+        "title": {
+            "title": {
+                "value": "Profiling the eukaryotic soil microbiome with differential primers and an antifungal peptide nucleic acid probe (PNA): Implications for diversity assessment"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Applied Soil Ecology"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2024"
+            },
+            "month": {
+                "value": "08"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.apsoil.2024.105464",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.apsoil.2024.105464"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0929-1393",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0929-1393"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.apsoil.2024.105464"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Kenneth Dumack"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Daniel V. Rissi"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Damien R. Finn"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Michael Bonkowski"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Christoph C. Tebbe"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
+    },
+    {
+        "created-date": {
+            "value": 1665999484174
+        },
+        "last-modified-date": {
+            "value": 1665999484174
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 120887703,
+        "path": "/0000-0002-4219-0995/work/120887703",
+        "title": {
+            "title": {
+                "value": "Manure application effects on subsoils: Abundant taxa initiate the diversity reduction of rare bacteria and community functional alterations"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Soil Biology and Biochemistry"
+        },
+        "short-description": null,
+        "citation": {
+            "citation-type": "BIBTEX",
+            "citation-value": "@article{Liu_2022,\tdoi = {10.1016/j.soilbio.2022.108816},\turl = {https://doi.org/10.1016%2Fj.soilbio.2022.108816},\tyear = 2022,\tmonth = {nov},\tpublisher = {Elsevier {BV}},\tvolume = {174},\tpages = {108816},\tauthor = {Xipeng Liu and Haotian Wang and Yingjie Wu and Qingfang Bi and Kai Ding and Xianyong Lin},\ttitle = {Manure application effects on subsoils: Abundant taxa initiate the diversity reduction of rare bacteria and community functional alterations},\tjournal = {Soil Biology and Biochemistry}}"
+        },
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2022"
+            },
+            "month": {
+                "value": "11"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.soilbio.2022.108816",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.soilbio.2022.108816"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0038-0717",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0038-0717"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.soilbio.2022.108816"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0002-4219-0995",
+                        "path": "0000-0002-4219-0995",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": null
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
+    },
+    {
+        "created-date": {
+            "value": 1701454762182
+        },
+        "last-modified-date": {
+            "value": 1701454762182
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 147898639,
+        "path": "/0000-0002-4219-0995/work/147898639",
+        "title": {
+            "title": {
+                "value": "Manure application effects on subsoils: Abundant taxa initiate the diversity reduction of rare bacteria and community functional alterations"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Soil Biology and Biochemistry"
+        },
+        "short-description": null,
+        "citation": null,
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2022"
+            },
+            "month": {
+                "value": "11"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.soilbio.2022.108816",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.soilbio.2022.108816"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0038-0717",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0038-0717"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.soilbio.2022.108816"
+        },
+        "contributors": {
+            "contributor": [
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0003-3121-715X",
+                        "path": "0000-0003-3121-715X",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Xipeng Liu"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0002-4219-0995",
+                        "path": "0000-0002-4219-0995",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Haotian Wang"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Yingjie Wu"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/0000-0001-7682-3976",
+                        "path": "0000-0001-7682-3976",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Qingfang Bi"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Kai Ding"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                },
+                {
+                    "contributor-orcid": {
+                        "uri": "http://orcid.org/null",
+                        "path": "null",
+                        "host": null
+                    },
+                    "credit-name": {
+                        "value": "Xianyong Lin"
+                    },
+                    "contributor-email": null,
+                    "contributor-attributes": {
+                        "contributor-sequence": null,
+                        "contributor-role": "AUTHOR"
+                    }
+                }
+            ]
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
+    },
+    {
+        "created-date": {
+            "value": 1647862429776
+        },
+        "last-modified-date": {
+            "value": 1647862429776
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 110164151,
+        "path": "/0000-0002-4219-0995/work/110164151",
+        "title": {
+            "title": {
+                "value": "Feedback mechanisms of periphytic biofilms to ZnO nanoparticles toxicity at different phosphorus levels"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Journal of Hazardous Materials"
+        },
+        "short-description": null,
+        "citation": {
+            "citation-type": "BIBTEX",
+            "citation-value": "@article{Cai_2021,\tdoi = {10.1016/j.jhazmat.2021.125834},\turl = {https://doi.org/10.1016%2Fj.jhazmat.2021.125834},\tyear = 2021,\tmonth = {aug},\tpublisher = {Elsevier {BV}},\tvolume = {416},\tpages = {125834},\tauthor = {Shujie Cai and Haotian Wang and Jun Tang and Xiufeng Tang and Peng Guan and Jiuyu Li and Yuji Jiang and Yonghong Wu and Renkou Xu},\ttitle = {Feedback mechanisms of periphytic biofilms to {ZnO} nanoparticles toxicity at different phosphorus levels},\tjournal = {Journal of Hazardous Materials}}"
+        },
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2021"
+            },
+            "month": {
+                "value": "08"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1016/j.jhazmat.2021.125834",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1016/j.jhazmat.2021.125834"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "0304-3894",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/0304-3894"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1016/j.jhazmat.2021.125834"
+        },
+        "contributors": {
+            "contributor": []
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
+    },
+    {
+        "created-date": {
+            "value": 1647862390159
+        },
+        "last-modified-date": {
+            "value": 1647862390159
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 110164140,
+        "path": "/0000-0002-4219-0995/work/110164140",
+        "title": {
+            "title": {
+                "value": "Biochar induced negative priming effect on soil organic carbon mineralisation by changing the microbial community structure across plant growth stages"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "Journal of Soils and Sediments"
+        },
+        "short-description": null,
+        "citation": {
+            "citation-type": "BIBTEX",
+            "citation-value": "@article{Wang_2020,\tdoi = {10.1007/s11368-020-02662-8},\turl = {https://doi.org/10.1007%2Fs11368-020-02662-8},\tyear = 2020,\tmonth = {may},\tpublisher = {Springer Science and Business Media {LLC}},\tvolume = {20},\tnumber = {9},\tpages = {3340--3350},\tauthor = {Haotian Wang and Wei Zhang and Lijun Chen and Qinsong Xu and Yuji Jiang and Bo Sun},\ttitle = {Biochar induced negative priming effect on soil organic carbon mineralisation by changing the microbial community structure across plant growth stages},\tjournal = {Journal of Soils and Sediments}}"
+        },
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2020"
+            },
+            "month": {
+                "value": "09"
+            },
+            "day": null,
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1007/s11368-020-02662-8",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1007/s11368-020-02662-8"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "1439-0108",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/1439-0108"
+                    },
+                    "external-id-relationship": "PART_OF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "1614-7480",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/1614-7480"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1007/s11368-020-02662-8"
+        },
+        "contributors": {
+            "contributor": []
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
+    },
+    {
+        "created-date": {
+            "value": 1647862319335
+        },
+        "last-modified-date": {
+            "value": 1647862319335
+        },
+        "source": {
+            "source-orcid": {
+                "uri": "http://orcid.org/0000-0002-4219-0995",
+                "path": "0000-0002-4219-0995",
+                "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+                "value": "Haotian Wang"
+            }
+        },
+        "put-code": 110164101,
+        "path": "/0000-0002-4219-0995/work/110164101",
+        "title": {
+            "title": {
+                "value": "Coupling Bacterial Community Assembly to Microbial Metabolism across Soil Profiles"
+            },
+            "subtitle": null,
+            "translated-title": null
+        },
+        "journal-title": {
+            "value": "mSystems"
+        },
+        "short-description": "<jats:p>We have provided a framework to better understand the mechanisms governing the balance between stochastic and deterministic processes and to integrate the shifts in community assembly processes with microbial carbon metabolism. Our study reinforced that environmental filtering and bacterial cooccurrence patterns influence the stochastic/deterministic continuum of soil bacterial community assembly and that stochasticity may act through deeper soil layers to influence carbon metabolism. Delineating theoretically the potential linkages between community assembly and SOC dynamics across a broad range of microbial systems represents an interesting topic for future research.</jats:p>",
+        "citation": {
+            "citation-type": "BIBTEX",
+            "citation-value": "@article{Luan_2020,\tdoi = {10.1128/msystems.00298-20},\turl = {https://doi.org/10.1128%2Fmsystems.00298-20},\tyear = 2020,\tmonth = {jun},\tpublisher = {American Society for Microbiology},\tvolume = {5},\tnumber = {3},\tauthor = {Lu Luan and Chao Liang and Lijun Chen and Haotian Wang and Qinsong Xu and Yuji Jiang and Bo Sun},\teditor = {Nick Bouskill},\ttitle = {Coupling Bacterial Community Assembly to Microbial Metabolism across Soil Profiles},\tjournal = {{mSystems}}}"
+        },
+        "type": "JOURNAL_ARTICLE",
+        "publication-date": {
+            "year": {
+                "value": "2020"
+            },
+            "month": {
+                "value": "06"
+            },
+            "day": {
+                "value": "30"
+            },
+            "media-type": null
+        },
+        "external-ids": {
+            "external-id": [
+                {
+                    "external-id-type": "doi",
+                    "external-id-value": "10.1128/msystems.00298-20",
+                    "external-id-url": {
+                        "value": "https://doi.org/10.1128/msystems.00298-20"
+                    },
+                    "external-id-relationship": "SELF"
+                },
+                {
+                    "external-id-type": "issn",
+                    "external-id-value": "2379-5077",
+                    "external-id-url": {
+                        "value": "https://portal.issn.org/resource/ISSN/2379-5077"
+                    },
+                    "external-id-relationship": "PART_OF"
+                }
+            ]
+        },
+        "url": {
+            "value": "http://dx.doi.org/10.1128/msystems.00298-20"
+        },
+        "contributors": {
+            "contributor": []
+        },
+        "language-code": "en",
+        "country": null,
+        "visibility": "PUBLIC"
     }
-}
+]
