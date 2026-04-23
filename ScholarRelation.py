@@ -124,6 +124,7 @@ def get_contributors(data):
     contributor_counts = dict(sorted(contributor_counts.items(), key=lambda item: item[1].count, reverse=True))
     return contributor_counts
 
+# Calling the Orcid API to figure out user's orcid ID which will allow us to search and store individuals work detailed data 
 def apiCall(last_name, first_name, affiliation, id = None)-> None: 
     #load environment variables from .env file
     load_dotenv()
